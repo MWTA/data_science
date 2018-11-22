@@ -1,12 +1,20 @@
+# -*- coding: utf-8 -*-
 """
     Description: Compute sentence similarity using Wordnet
     Date: 13/11/2018
     Tutorial: https://nlpforhackers.io/wordnet-sentence-similarity/
+
+    Metrics Calculater Similarity: http://www.nltk.org/howto/wordnet.html
+              
+    Outher: http://sematch.cluster.gsi.dit.upm.es/
+            https://github.com/gsi-upm/sematch
 """
 
 import logging
 
 from nltk import pos_tag
+from nltk.corpus import genesis
+from nltk.corpus import wordnet_ic
 from nltk.corpus import wordnet as wn
 
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
@@ -22,6 +30,10 @@ logging.basicConfig(
 
 
 prediction = []
+
+brown_ic = wordnet_ic.ic('ic-brown.dat')
+semcor_ic = wordnet_ic.ic('ic-semcor.dat')
+genesis_ic = wn.ic(genesis, False, 0.0)
 
 
 
@@ -90,28 +102,47 @@ if __name__ == '__main__':
         word_list_similarity = []
         
         for synset_category in get_synsets(list_categories, 1):
+            
+            ''' Wu-Palmer Similarity '''
             similarity = word_synset['synset_word'].wup_similarity(synset_category['synset_category'])
+            
+            ''' Leacock-Chodorow Similarity '''
             #similarity = word_synset['synset_word'].lch_similarity(synset_category['synset_category'])
+            
+            ''' PATH - Retorna uma pontuação indicando a similaridade entre duas palavras com base no caminho mais curto que coneca os sentido na taxonomia (hypernym/hypnoym) '''
             #similarity = word_synset['synset_word'].path_similarity(synset_category['synset_category'])
+
+            ''' Resnik Similarity '''
+            #similarity = word_synset['synset_word'].res_similarity(synset_category['synset_category'], brown_ic)
+
+            ''' Jiang-Conrath Similarity '''
+            # similarity = word_synset['synset_word'].jcn_similarity(synset_category['synset_category'], brown_ic)
+
+            ''' Lin Similarity '''
+            #similarity = word_synset['synset_word'].lin_similarity(synset_category['synset_category'], brown_ic)
+            
             # print "Similarity(%s, %s) = %s" % (word_synset, synset, similarity)
+            # print '\n Selected:', str(word_synset) + ', ' + str(synset_category) + ' = ' + str(similarity)
             
             item = {
                 "synset_word": word_synset, 
                 "synset_category": synset_category,
                 "similarity": similarity,
             }
-
+            
             word_list_similarity.append(item)
+
         
         # get result category max value similarity.
         selected = max(word_list_similarity, key=lambda item:item['similarity'])
+
         
         #prediction.append(selected['synset_category']['category'])
-        prediction.append(str(selected['synset_word']['word'] + ', ' + selected['synset_category']['category'] ) + '\n')
+        prediction.append(str(selected['synset_word']['word'] + ', ' + selected['synset_category']['category'] ) )
         #prediction.append(str(selected) + '\n')
 
         # show
-        # print '\n Selected:', selected['synset_word']['word'] + ', ' + selected['synset_category']['category']
+        #print '\n Selected:', selected['synset_word']['word'] + ', ' + selected['synset_category']['category']
     
 
     save_prediction(prediction)

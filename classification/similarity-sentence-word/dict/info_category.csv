@@ -1,0 +1,2024 @@
+==================================
+action.n.01
+alternative names (lemmas): "action"
+definition: "something done (usually as opposed to something said)"
+example usage: "there were stories of murders and other unnatural actions"
+hyponyms: "[Synset('accomplishment.n.01'), Synset('aggression.n.03'), Synset('alienation.n.04'), Synset('application.n.07'), Synset('arrival.n.02'), Synset('beatification.n.02'), Synset('bruxism.n.01'), Synset('change.n.03'), Synset('choice.n.02'), Synset('course.n.04'), Synset('destabilization.n.02'), Synset('economy.n.04'), Synset('emphasizing.n.01'), Synset('employment.n.03'), Synset('fetch.n.01'), Synset('interaction.n.01'), Synset('jumpstart.n.01'), Synset('kindness.n.03'), Synset('performance.n.03'), Synset('pickings.n.01'), Synset('play.n.17'), Synset('playing.n.02'), Synset('politeness.n.02'), Synset('prohibition.n.05'), Synset('reference.n.07'), Synset('res_gestae.n.02'), Synset('resistance.n.01'), Synset('reverence.n.03'), Synset('stupefaction.n.03'), Synset('thing.n.02'), Synset('transfusion.n.02'), Synset('transgression.n.03'), Synset('vampirism.n.02')]"
+hypernyms: "[Synset('act.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('action.n.01')]]"
+instance_hypernyms: "[]"
+
+
+action.n.02
+alternative names (lemmas): "action", "activity", "activeness"
+definition: "the state of being active"
+example usage: "his sphere of activity", "he is out of action"
+hyponyms: "[Synset('agency.n.03'), Synset('behavior.n.02'), Synset('busyness.n.01'), Synset('eruption.n.03'), Synset('operation.n.01'), Synset('overdrive.n.01'), Synset('play.n.05'), Synset('swing.n.01')]"
+hypernyms: "[Synset('state.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('action.n.02')]]"
+instance_hypernyms: "[]"
+
+
+military_action.n.01
+alternative names (lemmas): "military_action", "action"
+definition: "a military engagement"
+example usage: "he saw action in Korea"
+hyponyms: "[Synset('amphibious_landing.n.01'), Synset('battle.n.01'), Synset('blockade.n.01'), Synset('defense.n.01'), Synset('electronic_warfare.n.01'), Synset('police_action.n.01'), Synset('resistance.n.04'), Synset('saber_rattling.n.01'), Synset('sortie.n.01'), Synset('war.n.01')]"
+hypernyms: "[Synset('group_action.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('group_action.n.01'), Synset('military_action.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('group_action.n.01'), Synset('military_action.n.01')]]"
+instance_hypernyms: "[]"
+
+
+natural_process.n.01
+alternative names (lemmas): "natural_process", "natural_action", "action", "activity"
+definition: "a process existing in or produced by nature (rather than by the intent of human beings)"
+example usage: "the action of natural forces", "volcanic activity"
+hyponyms: "[Synset('absorption.n.02'), Synset('acidification.n.01'), Synset('adiabatic_process.n.01'), Synset('aeration.n.01'), Synset('antiredeposition.n.01'), Synset('capture.n.02'), Synset('capture.n.03'), Synset('centrifugation.n.01'), Synset('chemical_process.n.01'), Synset('chromatography.n.01'), Synset('concretion.n.01'), Synset('condensation.n.02'), Synset('convection.n.02'), Synset('curdling.n.01'), Synset('decay.n.01'), Synset('demagnetization.n.01'), Synset('desorption.n.01'), Synset('diffusion.n.01'), Synset('dissolution.n.01'), Synset('distillation.n.01'), Synset('drift.n.02'), Synset('effervescence.n.01'), Synset('electrophoresis.n.01'), Synset('establishment.n.06'), Synset('extinction.n.03'), Synset('extraction.n.01'), Synset('feedback.n.01'), Synset('filtration.n.01'), Synset('flocculation.n.01'), Synset('flow.n.04'), Synset('formation.n.06'), Synset('fossilization.n.01'), Synset('geological_process.n.01'), Synset('hardening.n.02'), Synset('inactivation.n.01'), Synset('ion_exchange.n.01'), Synset('ionization.n.02'), Synset('leach.n.01'), Synset('magnetization.n.02'), Synset('materialization.n.01'), Synset('nuclear_reaction.n.01'), Synset('opacification.n.01'), Synset('oscillation.n.01'), Synset('oxygenation.n.01'), Synset('pair_production.n.01'), Synset('phase_change.n.01'), Synset('precession_of_the_equinoxes.n.01'), Synset('radiation.n.05'), Synset('release.n.03'), Synset('saltation.n.01'), Synset('scattering.n.02'), Synset('sericulture.n.01'), Synset('sink.n.02'), Synset('soak.n.01'), Synset('softening.n.01'), Synset('sorption.n.01'), Synset('source.n.07'), Synset('stiffening.n.02'), Synset('stimulation.n.03'), Synset('succession.n.04'), Synset('survival.n.02'), Synset('synergy.n.01'), Synset('temperature_change.n.01'), Synset('transduction.n.02'), Synset('transpiration.n.01'), Synset('vitrification.n.02')]"
+hypernyms: "[Synset('process.n.06')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('natural_process.n.01')]]"
+instance_hypernyms: "[]"
+
+
+action.n.05
+alternative names (lemmas): "action"
+definition: "the series of events that form a plot"
+example usage: "his novels always have a lot of action"
+hyponyms: "[]"
+hypernyms: "[Synset('plot.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('written_communication.n.01'), Synset('writing.n.02'), Synset('literary_composition.n.01'), Synset('fiction.n.01'), Synset('story.n.02'), Synset('plot.n.03'), Synset('action.n.05')]]"
+instance_hypernyms: "[]"
+
+
+action.n.06
+alternative names (lemmas): "action"
+definition: "the trait of being active and energetic and forceful"
+example usage: "a man of action"
+hyponyms: "[]"
+hypernyms: "[Synset('drive.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('trait.n.01'), Synset('drive.n.05'), Synset('action.n.06')]]"
+instance_hypernyms: "[]"
+
+
+action.n.07
+alternative names (lemmas): "action", "action_mechanism"
+definition: "the operating part that transmits power to a mechanism"
+example usage: "the piano had a very stiff action"
+hyponyms: "[Synset('gunlock.n.01'), Synset('movement.n.10'), Synset('piano_action.n.01'), Synset('pump_action.n.01')]"
+hypernyms: "[Synset('mechanism.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('device.n.01'), Synset('mechanism.n.05'), Synset('action.n.07')]]"
+instance_hypernyms: "[]"
+
+
+legal_action.n.01
+alternative names (lemmas): "legal_action", "action", "action_at_law"
+definition: "a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong"
+hyponyms: "[Synset('antitrust_case.n.01'), Synset('civil_action.n.01'), Synset('counterclaim.n.01'), Synset('custody_case.n.01'), Synset('lis_pendens.n.01'), Synset('prosecution.n.01'), Synset('test_case.n.01')]"
+hypernyms: "[Synset('proceeding.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('group_action.n.01'), Synset('due_process.n.01'), Synset('proceeding.n.01'), Synset('legal_action.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('group_action.n.01'), Synset('due_process.n.01'), Synset('proceeding.n.01'), Synset('legal_action.n.01')]]"
+instance_hypernyms: "[]"
+
+
+action.n.09
+alternative names (lemmas): "action"
+definition: "an act by a government body or supranational organization"
+example usage: "recent federal action undermined the segregationist position", "the United Nations must have the power to propose and organize action without being hobbled by irrelevant issues", "the Union action of emancipating Southern slaves"
+hyponyms: "[]"
+hypernyms: "[Synset('group_action.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('group_action.n.01'), Synset('action.n.09')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('group_action.n.01'), Synset('action.n.09')]]"
+instance_hypernyms: "[]"
+
+
+action.n.10
+alternative names (lemmas): "action"
+definition: "the most important or interesting work or activity in a specific area or field"
+example usage: "the action is no longer in technology stocks but in municipal bonds", "gawkers always try to get as close to the action as possible"
+hyponyms: "[]"
+hypernyms: "[Synset('work.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('work.n.01'), Synset('action.n.10')]]"
+instance_hypernyms: "[]"
+
+
+action.v.01
+alternative names (lemmas): "action", "sue", "litigate", "process"
+definition: "institute legal proceedings against; file a suit against"
+example usage: "He was warned that the district attorney would process him", "She actioned the company for discrimination"
+hyponyms: "[Synset('expedite.v.02')]"
+hypernyms: "[Synset('challenge.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transfer.v.02'), Synset('convey.v.03'), Synset('communicate.v.01'), Synset('request.v.01'), Synset('ask.v.02'), Synset('request.v.02'), Synset('invite.v.04'), Synset('challenge.v.02'), Synset('action.v.01')]]"
+instance_hypernyms: "[]"
+
+
+carry_through.v.01
+alternative names (lemmas): "carry_through", "accomplish", "execute", "carry_out", "action", "fulfill", "fulfil"
+definition: "put in effect"
+example usage: "carry out a task", "execute the decision of the people", "He actioned the operation"
+hyponyms: "[Synset('consummate.v.01'), Synset('consummate.v.02'), Synset('dispatch.v.02'), Synset('do.v.03'), Synset('get_over.v.02'), Synset('run.v.21')]"
+hypernyms: "[Synset('complete.v.01'), Synset('effect.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('end.v.02'), Synset('complete.v.01'), Synset('carry_through.v.01')], [Synset('make.v.03'), Synset('cause.v.01'), Synset('effect.v.01'), Synset('carry_through.v.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+alphabet.n.01
+alternative names (lemmas): "alphabet"
+definition: "a character set that includes letters and is used to write a language"
+hyponyms: "[Synset('arabic_alphabet.n.01'), Synset('armenian.n.03'), Synset('cyrillic_alphabet.n.01'), Synset('greek_alphabet.n.01'), Synset('hebrew_alphabet.n.01'), Synset('manual_alphabet.n.01'), Synset('phonetic_alphabet.n.01'), Synset('roman_alphabet.n.01')]"
+hypernyms: "[Synset('character_set.n.01'), Synset('script.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('message.n.02'), Synset('information.n.01'), Synset('database.n.01'), Synset('list.n.01'), Synset('character_set.n.01'), Synset('alphabet.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('written_communication.n.01'), Synset('writing.n.04'), Synset('orthography.n.01'), Synset('script.n.03'), Synset('alphabet.n.01')]]"
+instance_hypernyms: "[]"
+
+
+rudiment.n.01
+alternative names (lemmas): "rudiment", "first_rudiment", "first_principle", "alphabet", "ABC", "ABC's", "ABCs"
+definition: "the elementary stages of any subject (usually plural)"
+example usage: "he mastered only the rudiments of geometry"
+hyponyms: "[]"
+hypernyms: "[Synset('fundamentals.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('concept.n.01'), Synset('law.n.03'), Synset('principle.n.03'), Synset('fundamentals.n.01'), Synset('rudiment.n.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+animal.n.01
+alternative names (lemmas): "animal", "animate_being", "beast", "brute", "creature", "fauna"
+definition: "a living organism characterized by voluntary movement"
+hyponyms: "[Synset('acrodont.n.01'), Synset('adult.n.02'), Synset('biped.n.01'), Synset('captive.n.02'), Synset('chordate.n.01'), Synset('creepy-crawly.n.01'), Synset('critter.n.01'), Synset('darter.n.02'), Synset('domestic_animal.n.01'), Synset('embryo.n.02'), Synset('feeder.n.06'), Synset('female.n.01'), Synset('fictional_animal.n.01'), Synset('game.n.04'), Synset('giant.n.01'), Synset('herbivore.n.01'), Synset('hexapod.n.01'), Synset('homeotherm.n.01'), Synset('insectivore.n.02'), Synset('invertebrate.n.01'), Synset('larva.n.01'), Synset('male.n.01'), Synset('marine_animal.n.01'), Synset('mate.n.03'), Synset('metazoan.n.01'), Synset('migrator.n.02'), Synset('molter.n.01'), Synset('mutant.n.02'), Synset('omnivore.n.02'), Synset('peeper.n.03'), Synset('pest.n.04'), Synset('pet.n.01'), Synset('pleurodont.n.01'), Synset('poikilotherm.n.01'), Synset('predator.n.02'), Synset('prey.n.02'), Synset('racer.n.03'), Synset('range_animal.n.01'), Synset('scavenger.n.03'), Synset('stayer.n.01'), Synset('stunt.n.02'), Synset('survivor.n.03'), Synset('thoroughbred.n.03'), Synset('varmint.n.02'), Synset('work_animal.n.01'), Synset('young.n.01'), Synset('zooplankton.n.01')]"
+hypernyms: "[Synset('organism.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('animal.n.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+body_part.n.01
+alternative names (lemmas): "body_part"
+definition: "any part of an organism such as an organ or extremity"
+hyponyms: "[Synset('abdomen.n.01'), Synset('adnexa.n.01'), Synset('ambulacrum.n.01'), Synset('ampulla.n.01'), Synset('apparatus.n.02'), Synset('area.n.03'), Synset('back.n.01'), Synset('buttock.n.01'), Synset('buttocks.n.01'), Synset('cannon.n.05'), Synset('dilator.n.01'), Synset('dock.n.06'), Synset('dorsum.n.02'), Synset('energid.n.01'), Synset('external_body_part.n.01'), Synset('feature.n.02'), Synset('flank.n.04'), Synset('fornix.n.01'), Synset('gaskin.n.01'), Synset('groove.n.03'), Synset('haunch.n.01'), Synset('hindquarters.n.02'), Synset('hip.n.01'), Synset('horseback.n.01'), Synset('joint.n.01'), Synset('lobe.n.01'), Synset('loin.n.02'), Synset('loins.n.02'), Synset('mentum.n.03'), Synset('organ.n.01'), Synset('partition.n.03'), Synset('process.n.05'), Synset('rectum.n.01'), Synset('rudiment.n.02'), Synset('saddle.n.06'), Synset('shank.n.02'), Synset('shin.n.01'), Synset('shoulder.n.01'), Synset('small.n.01'), Synset('structure.n.04'), Synset('stump.n.02'), Synset('system.n.06'), Synset('thorax.n.01'), Synset('thorax.n.02'), Synset('thorax.n.03'), Synset('tissue.n.01'), Synset('toe.n.03'), Synset('torso.n.01'), Synset('underpart.n.01'), Synset('venter.n.04'), Synset('withers.n.01')]"
+hypernyms: "[Synset('part.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('thing.n.12'), Synset('part.n.03'), Synset('body_part.n.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+clothing.n.01
+alternative names (lemmas): "clothing", "article_of_clothing", "vesture", "wear", "wearable", "habiliment"
+definition: "a covering designed to be worn on a person's body"
+hyponyms: "[Synset('accessory.n.01'), Synset('apparel.n.01'), Synset('array.n.03'), Synset('attire.n.01'), Synset('beachwear.n.01'), Synset('black.n.07'), Synset('blue.n.02'), Synset('change.n.07'), Synset('civilian_clothing.n.01'), Synset('drag.n.04'), Synset('footwear.n.01'), Synset('garment.n.01'), Synset('grey.n.06'), Synset('handwear.n.01'), Synset('headdress.n.01'), Synset('knitwear.n.01'), Synset('leisure_wear.n.01'), Synset('loungewear.n.01'), Synset('man's_clothing.n.01'), Synset('neckpiece.n.01'), Synset('nightwear.n.01'), Synset('outerwear.n.01'), Synset('protective_garment.n.01'), Synset('ready-to-wear.n.01'), Synset('slip-on.n.01'), Synset('slops.n.02'), Synset('street_clothes.n.01'), Synset('tailor-made.n.01'), Synset('togs.n.01'), Synset('uniform.n.01'), Synset('vestiture.n.01'), Synset('woman's_clothing.n.01'), Synset('work-clothing.n.01')]"
+hypernyms: "[Synset('consumer_goods.n.01'), Synset('covering.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('commodity.n.01'), Synset('consumer_goods.n.01'), Synset('clothing.n.01')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('covering.n.02'), Synset('clothing.n.01')]]"
+instance_hypernyms: "[]"
+
+
+dress.v.02
+alternative names (lemmas): "dress", "clothe", "enclothe", "garb", "raiment", "tog", "garment", "habilitate", "fit_out", "apparel"
+definition: "provide with clothes or put clothes on"
+example usage: "Parents must feed and dress their child"
+hyponyms: "[Synset('coat.v.02'), Synset('corset.v.01'), Synset('costume.v.01'), Synset('cover.v.26'), Synset('frock.v.01'), Synset('gown.v.01'), Synset('habit.v.01'), Synset('jacket.v.02'), Synset('overdress.v.01'), Synset('prim.v.03'), Synset('shirt.v.01'), Synset('shoe.v.01'), Synset('underdress.v.01'), Synset('vest.v.05'), Synset('vesture.v.01')]"
+hypernyms: "[Synset('change_state.v.01')]"
+hypernym_paths: "[[Synset('change.v.02'), Synset('change_state.v.01'), Synset('dress.v.02')]]"
+instance_hypernyms: "[]"
+
+
+invest.v.03
+alternative names (lemmas): "invest", "clothe", "adorn"
+definition: "furnish with power or authority; of kings or emperors"
+hyponyms: "[]"
+hypernyms: "[Synset('equip.v.01')]"
+hypernym_paths: "[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('supply.v.01'), Synset('equip.v.01'), Synset('invest.v.03')]]"
+instance_hypernyms: "[]"
+
+
+clothe.v.03
+alternative names (lemmas): "clothe", "cloak", "drape", "robe"
+definition: "cover as if with clothing"
+example usage: "the mountain was clothed in tropical trees"
+hyponyms: "[]"
+hypernyms: "[Synset('cover.v.02')]"
+hypernym_paths: "[[Synset('touch.v.05'), Synset('cover.v.02'), Synset('clothe.v.03')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+color.n.01
+alternative names (lemmas): "color", "colour", "coloring", "colouring"
+definition: "a visual attribute of things that results from the light they emit or transmit or reflect"
+example usage: "a white color is made up of many different wavelengths of light"
+hyponyms: "[Synset('achromatic_color.n.01'), Synset('chromatic_color.n.01'), Synset('coloration.n.02'), Synset('complexion.n.01'), Synset('heather_mixture.n.01'), Synset('mottle.n.01'), Synset('nonsolid_color.n.01'), Synset('primary_color.n.01'), Synset('shade.n.02')]"
+hypernyms: "[Synset('visual_property.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('visual_property.n.01'), Synset('color.n.01')]]"
+instance_hypernyms: "[]"
+
+
+color.n.02
+alternative names (lemmas): "color", "colour", "vividness"
+definition: "interest and variety and intensity"
+example usage: "the Puritan Period was lacking in color", "the characters were delineated with exceptional vividness"
+hyponyms: "[]"
+hypernyms: "[Synset('interest.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('power.n.01'), Synset('interest.n.03'), Synset('color.n.02')]]"
+instance_hypernyms: "[]"
+
+
+color.n.03
+alternative names (lemmas): "color", "colour", "coloration", "colouration"
+definition: "the timbre of a musical sound"
+example usage: "the recording fails to capture the true color of the original music"
+hyponyms: "[]"
+hypernyms: "[Synset('timbre.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('sound_property.n.01'), Synset('timbre.n.01'), Synset('color.n.03')]]"
+instance_hypernyms: "[]"
+
+
+color.n.04
+alternative names (lemmas): "color", "colour", "people_of_color", "people_of_colour"
+definition: "a race with skin pigmentation different from the white race (especially Blacks)"
+hyponyms: "[]"
+hypernyms: "[Synset('race.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('race.n.03'), Synset('color.n.04')]]"
+instance_hypernyms: "[]"
+
+
+semblance.n.01
+alternative names (lemmas): "semblance", "gloss", "color", "colour"
+definition: "an outward or token appearance or form that is deliberately misleading"
+example usage: "he hoped his claims would have a semblance of authenticity", "he tried to give his falsehood the gloss of moral sanction", "the situation soon took on a different color"
+hyponyms: "[Synset('color_of_law.n.01'), Synset('disguise.n.01'), Synset('face_value.n.02'), Synset('guise.n.01'), Synset('simulacrum.n.01'), Synset('verisimilitude.n.01')]"
+hypernyms: "[Synset('appearance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('appearance.n.01'), Synset('semblance.n.01')]]"
+instance_hypernyms: "[]"
+
+
+coloring_material.n.01
+alternative names (lemmas): "coloring_material", "colouring_material", "color", "colour"
+definition: "any material used for its color"
+example usage: "she used a different color for the trim"
+hyponyms: "[Synset('dye.n.01'), Synset('hematochrome.n.01'), Synset('indicator.n.04'), Synset('mordant.n.01'), Synset('paint.n.01'), Synset('pigment.n.01'), Synset('pigment.n.02'), Synset('stain.n.02'), Synset('tincture.n.01')]"
+hypernyms: "[Synset('material.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('substance.n.01'), Synset('material.n.01'), Synset('coloring_material.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('relation.n.01'), Synset('part.n.01'), Synset('substance.n.01'), Synset('material.n.01'), Synset('coloring_material.n.01')]]"
+instance_hypernyms: "[]"
+
+
+color.n.07
+alternative names (lemmas): "color", "colour"
+definition: "(physics) the characteristic of quarks that determines their role in the strong interaction"
+example usage: "each flavor of quarks comes in three colors"
+hyponyms: "[]"
+hypernyms: "[Synset('kind.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('concept.n.01'), Synset('category.n.02'), Synset('kind.n.01'), Synset('color.n.07')]]"
+instance_hypernyms: "[]"
+
+
+color.n.08
+alternative names (lemmas): "color", "colour"
+definition: "the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation"
+hyponyms: "[]"
+hypernyms: "[Synset('appearance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('appearance.n.01'), Synset('color.n.08')]]"
+instance_hypernyms: "[]"
+
+
+color.v.01
+alternative names (lemmas): "color", "colorize", "colorise", "colourise", "colourize", "colour", "color_in", "colour_in"
+definition: "add color to"
+example usage: "The child colored the drawings", "Fall colored the trees", "colorize black and white film"
+hyponyms: "[Synset('aurify.v.02'), Synset('azure.v.01'), Synset('blackwash.v.02'), Synset('embrown.v.02'), Synset('grey.v.01'), Synset('handcolor.v.01'), Synset('imbue.v.03'), Synset('incarnadine.v.01'), Synset('motley.v.02'), Synset('mottle.v.01'), Synset('pigment.v.02'), Synset('pinkify.v.01'), Synset('polychrome.v.01'), Synset('purple.v.02'), Synset('redden.v.02'), Synset('retouch.v.01'), Synset('silver.v.02'), Synset('tint.v.01'), Synset('tone.v.04'), Synset('verdigris.v.01')]"
+hypernyms: "[Synset('change.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('color.v.01')]]"
+instance_hypernyms: "[]"
+
+
+tinge.v.01
+alternative names (lemmas): "tinge", "color", "colour", "distort"
+definition: "affect as in thought or feeling"
+example usage: "My personal feelings color my judgment in this case", "The sadness tinged his life"
+hyponyms: "[]"
+hypernyms: "[Synset('affect.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('affect.v.01'), Synset('tinge.v.01')]]"
+instance_hypernyms: "[]"
+
+
+color.v.03
+alternative names (lemmas): "color", "colour"
+definition: "modify or bias"
+example usage: "His political ideas color his lectures"
+hyponyms: "[]"
+hypernyms: "[Synset('influence.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('affect.v.01'), Synset('influence.v.01'), Synset('color.v.03')]]"
+instance_hypernyms: "[]"
+
+
+color.v.04
+alternative names (lemmas): "color", "colour", "emblazon"
+definition: "decorate with colors"
+example usage: "color the walls with paint in warm tones"
+hyponyms: "[Synset('miniate.v.01')]"
+hypernyms: "[Synset('decorate.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('decorate.v.01'), Synset('color.v.04')]]"
+instance_hypernyms: "[]"
+
+
+color.v.05
+alternative names (lemmas): "color", "colour", "gloss"
+definition: "give a deceptive explanation or excuse for"
+example usage: "color a lie"
+hyponyms: "[]"
+hypernyms: "[Synset('apologize.v.02')]"
+hypernym_paths: "[[Synset('express.v.02'), Synset('state.v.01'), Synset('present.v.02'), Synset('argue.v.01'), Synset('defend.v.01'), Synset('apologize.v.02'), Synset('color.v.05')]]"
+instance_hypernyms: "[]"
+
+
+discolor.v.03
+alternative names (lemmas): "discolor", "discolour", "colour", "color"
+definition: "change color, often in an undesired manner"
+example usage: "The shirts discolored"
+hyponyms: "[Synset('blacken.v.01'), Synset('blue.v.01'), Synset('blush.v.01'), Synset('dye.v.01'), Synset('green.v.01'), Synset('grey.v.02'), Synset('pale.v.01'), Synset('purple.v.01'), Synset('redden.v.03'), Synset('silver.v.03'), Synset('sunburn.v.01'), Synset('tan.v.02'), Synset('tone.v.03'), Synset('turn.v.14'), Synset('whiten.v.01'), Synset('yellow.v.01')]"
+hypernyms: "[Synset('change.v.02')]"
+hypernym_paths: "[[Synset('change.v.02'), Synset('discolor.v.03')]]"
+instance_hypernyms: "[]"
+
+
+color.a.01
+alternative names (lemmas): "color", "colour"
+definition: "having or capable of producing colors"
+example usage: "color film", "he rented a color television", "marvelous color illustrations"
+hyponyms: "[]"
+hypernyms: "[]"
+hypernym_paths: "[[Synset('color.a.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+form.n.01
+alternative names (lemmas): "form", "word_form", "signifier", "descriptor"
+definition: "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+example usage: "the inflected forms of a word can be represented by a stem and a list of inflections to be attached"
+hyponyms: "[Synset('abbreviation.n.01'), Synset('acronym.n.01'), Synset('citation_form.n.01'), Synset('etymon.n.01'), Synset('ghost_word.n.01'), Synset('plural.n.01'), Synset('root.n.03'), Synset('singular.n.01')]"
+hypernyms: "[Synset('word.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('relation.n.01'), Synset('part.n.01'), Synset('language_unit.n.01'), Synset('word.n.01'), Synset('form.n.01')]]"
+instance_hypernyms: "[]"
+
+
+descriptor.n.02
+alternative names (lemmas): "descriptor"
+definition: "a piece of stored information that is used to identify an item in an information storage and retrieval system"
+hyponyms: "[]"
+hypernyms: "[Synset('information.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('information.n.02'), Synset('descriptor.n.02')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+event.n.01
+alternative names (lemmas): "event"
+definition: "something that happens at a given place and time"
+hyponyms: "[Synset('act.n.02'), Synset('group_action.n.01'), Synset('happening.n.01'), Synset('makeup.n.02'), Synset('might-have-been.n.01'), Synset('migration.n.03'), Synset('miracle.n.02'), Synset('nonevent.n.01'), Synset('social_event.n.01'), Synset('zap.n.01')]"
+hypernyms: "[Synset('psychological_feature.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01')]]"
+instance_hypernyms: "[]"
+
+
+event.n.02
+alternative names (lemmas): "event", "case"
+definition: "a special set of circumstances"
+example usage: "in that event, the first possibility is excluded", "it may rain in which case the picnic will be canceled"
+hyponyms: "[]"
+hypernyms: "[Synset('circumstance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('circumstance.n.01'), Synset('event.n.02')]]"
+instance_hypernyms: "[]"
+
+
+event.n.03
+alternative names (lemmas): "event"
+definition: "a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory"
+hyponyms: "[]"
+hypernyms: "[Synset('physical_phenomenon.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('phenomenon.n.01'), Synset('natural_phenomenon.n.01'), Synset('physical_phenomenon.n.01'), Synset('event.n.03')]]"
+instance_hypernyms: "[]"
+
+
+consequence.n.01
+alternative names (lemmas): "consequence", "effect", "outcome", "result", "event", "issue", "upshot"
+definition: "a phenomenon that follows and is caused by some previous phenomenon"
+example usage: "the magnetic effect was greater when the rod was lengthwise", "his decision had depressing consequences for business", "he acted very wise after the event"
+hyponyms: "[Synset('aftereffect.n.01'), Synset('aftermath.n.01'), Synset('bandwagon_effect.n.01'), Synset('brisance.n.01'), Synset('butterfly_effect.n.01'), Synset('by-product.n.01'), Synset('change.n.04'), Synset('coattails_effect.n.01'), Synset('coriolis_effect.n.01'), Synset('dent.n.01'), Synset('domino_effect.n.01'), Synset('harvest.n.02'), Synset('impact.n.02'), Synset('influence.n.04'), Synset('knock-on_effect.n.01'), Synset('offspring.n.02'), Synset('outgrowth.n.01'), Synset('placebo_effect.n.01'), Synset('position_effect.n.01'), Synset('product.n.05'), Synset('repercussion.n.01'), Synset('response.n.01'), Synset('side_effect.n.02'), Synset('spillover.n.01')]"
+hypernyms: "[Synset('phenomenon.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('phenomenon.n.01'), Synset('consequence.n.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+expression.n.01
+alternative names (lemmas): "expression", "look", "aspect", "facial_expression", "face"
+definition: "the feelings expressed on a person's face"
+example usage: "a sad expression", "a look of triumph", "an angry face"
+hyponyms: "[Synset('leer.n.02'), Synset('sparkle.n.01')]"
+hypernyms: "[Synset('countenance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('appearance.n.01'), Synset('countenance.n.01'), Synset('expression.n.01')]]"
+instance_hypernyms: "[]"
+
+
+expression.n.02
+alternative names (lemmas): "expression", "manifestation", "reflection", "reflexion"
+definition: "expression without words"
+example usage: "tears are an expression of grief", "the pulse is a reflection of the heart's condition"
+hyponyms: "[Synset('act.n.05'), Synset('effusion.n.01'), Synset('lamentation.n.02')]"
+hypernyms: "[Synset('demonstration.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('visual_communication.n.01'), Synset('demonstration.n.05'), Synset('expression.n.02')]]"
+instance_hypernyms: "[]"
+
+
+expression.n.03
+alternative names (lemmas): "expression", "verbal_expression", "verbalism"
+definition: "the communication (in speech or writing) of your beliefs or opinions"
+example usage: "expressions of good will", "he helped me find verbal expression for my ideas", "the idea was immediate but the verbalism took hours"
+hyponyms: "[Synset('articulation.n.03'), Synset('cold_turkey.n.01'), Synset('congratulation.n.02')]"
+hypernyms: "[Synset('communication.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('communication.n.01'), Synset('expression.n.03')]]"
+instance_hypernyms: "[]"
+
+
+saying.n.01
+alternative names (lemmas): "saying", "expression", "locution"
+definition: "a word or phrase that particular people use in particular situations"
+example usage: "pardon the expression"
+hyponyms: "[Synset('advice_and_consent.n.01'), Synset('agrapha.n.01'), Synset('ambiguity.n.01'), Synset('anatomical_reference.n.01'), Synset('beatitude.n.02'), Synset('calque.n.01'), Synset('dysphemism.n.01'), Synset('epigram.n.01'), Synset('euphemism.n.01'), Synset('idiom.n.04'), Synset('logion.n.01'), Synset('maxim.n.01'), Synset('motto.n.01'), Synset('proverb.n.01'), Synset('shucks.n.02'), Synset('southernism.n.01'), Synset('sumpsimus.n.01'), Synset('tongue_twister.n.01')]"
+hypernyms: "[Synset('speech.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('auditory_communication.n.01'), Synset('speech.n.02'), Synset('saying.n.01')]]"
+instance_hypernyms: "[]"
+
+
+formulation.n.03
+alternative names (lemmas): "formulation", "expression"
+definition: "the style of expressing yourself"
+example usage: "he suggested a better formulation", "his manner of expression showed how much he cared"
+hyponyms: "[Synset('americanism.n.02'), Synset('anglicism.n.01'), Synset('archaism.n.01'), Synset('boilerplate.n.01'), Synset('colloquialism.n.01'), Synset('honorific.n.01'), Synset('parlance.n.01'), Synset('sentimentalism.n.01'), Synset('wording.n.01')]"
+hypernyms: "[Synset('expressive_style.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('expressive_style.n.01'), Synset('formulation.n.03')]]"
+instance_hypernyms: "[]"
+
+
+formula.n.01
+alternative names (lemmas): "formula", "expression"
+definition: "a group of symbols that make a mathematical statement"
+hyponyms: "[Synset('exponential_expression.n.01'), Synset('primitive.n.02'), Synset('sentential_function.n.01')]"
+hypernyms: "[Synset('mathematical_statement.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('message.n.02'), Synset('statement.n.01'), Synset('mathematical_statement.n.01'), Synset('formula.n.01')]]"
+instance_hypernyms: "[]"
+
+
+expression.n.07
+alternative names (lemmas): "expression"
+definition: "(genetics) the process of expressing a gene"
+hyponyms: "[]"
+hypernyms: "[Synset('organic_process.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('organic_process.n.01'), Synset('expression.n.07')]]"
+instance_hypernyms: "[]"
+
+
+construction.n.02
+alternative names (lemmas): "construction", "grammatical_construction", "expression"
+definition: "a group of words that form a constituent of a sentence and are considered as a single unit"
+example usage: "I concluded from his awkward constructions that he was a foreigner"
+hyponyms: "[Synset('adjunct.n.03'), Synset('clause.n.01'), Synset('complement.n.01'), Synset('involution.n.02'), Synset('phrase.n.01'), Synset('predicator.n.01')]"
+hypernyms: "[Synset('constituent.n.04')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('language.n.01'), Synset('string_of_words.n.01'), Synset('syntagma.n.01'), Synset('constituent.n.04'), Synset('construction.n.02')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('arrangement.n.02'), Synset('ordering.n.01'), Synset('series.n.01'), Synset('sequence.n.01'), Synset('string.n.05'), Synset('string_of_words.n.01'), Synset('syntagma.n.01'), Synset('constituent.n.04'), Synset('construction.n.02')]]"
+instance_hypernyms: "[]"
+
+
+expression.n.09
+alternative names (lemmas): "expression"
+definition: "the act of forcing something out by squeezing or pressing"
+example usage: "the expression of milk from her breast"
+hyponyms: "[]"
+hypernyms: "[Synset('squeeze.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('propulsion.n.02'), Synset('push.n.01'), Synset('press.n.09'), Synset('compression.n.04'), Synset('squeeze.n.01'), Synset('expression.n.09')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+feelings.n.01
+alternative names (lemmas): "feelings"
+definition: "emotional or moral sensitivity (especially in relation to personal principles or dignity)"
+example usage: "the remark hurt his feelings"
+hyponyms: "[]"
+hypernyms: "[Synset('sensitivity.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('feeling.n.01'), Synset('sensitivity.n.03'), Synset('feelings.n.01')]]"
+instance_hypernyms: "[]"
+
+
+feeling.n.01
+alternative names (lemmas): "feeling"
+definition: "the experiencing of affective and emotional states"
+example usage: "she had a feeling of euphoria", "he had terrible feelings of guilt", "I disliked him and the feeling was mutual"
+hyponyms: "[Synset('affect.n.01'), Synset('affection.n.01'), Synset('agitation.n.03'), Synset('ambivalence.n.01'), Synset('apathy.n.01'), Synset('astonishment.n.01'), Synset('calmness.n.03'), Synset('complex.n.03'), Synset('desire.n.01'), Synset('despair.n.02'), Synset('devastation.n.02'), Synset('dislike.n.02'), Synset('emotion.n.01'), Synset('enthusiasm.n.01'), Synset('expectation.n.03'), Synset('faintness.n.01'), Synset('fearlessness.n.01'), Synset('glow.n.04'), Synset('gratitude.n.01'), Synset('gravity.n.03'), Synset('happiness.n.02'), Synset('hope.n.02'), Synset('humility.n.02'), Synset('ingratitude.n.01'), Synset('levity.n.01'), Synset('liking.n.01'), Synset('pain.n.02'), Synset('pang.n.01'), Synset('passion.n.01'), Synset('pleasure.n.01'), Synset('pride.n.01'), Synset('sadness.n.01'), Synset('sensitivity.n.03'), Synset('sentiment.n.01'), Synset('sex.n.03'), Synset('shame.n.01'), Synset('soul.n.03'), Synset('sympathy.n.02'), Synset('temper.n.02'), Synset('thing.n.11'), Synset('unconcern.n.02')]"
+hypernyms: "[Synset('state.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('feeling.n.01')]]"
+instance_hypernyms: "[]"
+
+
+impression.n.01
+alternative names (lemmas): "impression", "feeling", "belief", "notion", "opinion"
+definition: "a vague idea in which some confidence is placed"
+example usage: "his impression of her was favorable", "what are your feelings about the crisis?", "it strengthened my belief in his sincerity", "I had a feeling that she was lying"
+hyponyms: "[Synset('effect.n.03'), Synset('first_blush.n.01'), Synset('intuition.n.02'), Synset('presence.n.04')]"
+hypernyms: "[Synset('idea.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('impression.n.01')]]"
+instance_hypernyms: "[]"
+
+
+spirit.n.02
+alternative names (lemmas): "spirit", "tone", "feel", "feeling", "flavor", "flavour", "look", "smell"
+definition: "the general atmosphere of a place or situation and the effect that it has on people"
+example usage: "the feel of the city excited him", "a clergyman improved the tone of the meeting", "it had the smell of treason"
+hyponyms: "[Synset('hollywood.n.02'), Synset('zeitgeist.n.01')]"
+hypernyms: "[Synset('atmosphere.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('atmosphere.n.01'), Synset('spirit.n.02')]]"
+instance_hypernyms: "[]"
+
+
+feeling.n.04
+alternative names (lemmas): "feeling"
+definition: "a physical sensation that you experience"
+example usage: "he had a queasy feeling", "I had a strange feeling in my leg", "he lost all feeling in his arm"
+hyponyms: "[Synset('constriction.n.03')]"
+hypernyms: "[Synset('somesthesia.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('process.n.02'), Synset('basic_cognitive_process.n.01'), Synset('perception.n.03'), Synset('somesthesia.n.01'), Synset('feeling.n.04')]]"
+instance_hypernyms: "[]"
+
+
+touch.n.10
+alternative names (lemmas): "touch", "touch_sensation", "tactual_sensation", "tactile_sensation", "feeling"
+definition: "the sensation produced by pressure receptors in the skin"
+example usage: "she likes the touch of silk on her skin", "the surface had a greasy feeling"
+hyponyms: "[Synset('creepiness.n.01'), Synset('cutaneous_sensation.n.01')]"
+hypernyms: "[Synset('perception.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('process.n.02'), Synset('basic_cognitive_process.n.01'), Synset('perception.n.03'), Synset('touch.n.10')]]"
+instance_hypernyms: "[]"
+
+
+feeling.n.06
+alternative names (lemmas): "feeling", "intuitive_feeling"
+definition: "an intuitive understanding of something"
+example usage: "he had a great feeling for music"
+hyponyms: "[Synset('sprachgefuhl.n.01')]"
+hypernyms: "[Synset('intuition.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('process.n.02'), Synset('basic_cognitive_process.n.01'), Synset('intuition.n.01'), Synset('feeling.n.06')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.01
+alternative names (lemmas): "feel", "experience"
+definition: "undergo an emotional sensation or be in a particular state of mind"
+example usage: "She felt resentful", "He felt regret"
+hyponyms: "[Synset('anger.v.02'), Synset('burn.v.06'), Synset('chafe.v.02'), Synset('cool_off.v.03'), Synset('die.v.05'), Synset('fly_high.v.01'), Synset('fume.v.01'), Synset('glow.v.04'), Synset('glow.v.05'), Synset('harbor.v.01'), Synset('incline.v.05'), Synset('pride.v.01'), Synset('recapture.v.01'), Synset('rejoice.v.01'), Synset('repent.v.02'), Synset('sadden.v.02'), Synset('smolder.v.02'), Synset('suffer.v.03'), Synset('sympathize.v.01'), Synset('take_pride.v.01')]"
+hypernyms: "[]"
+hypernym_paths: "[[Synset('feel.v.01')]]"
+instance_hypernyms: "[]"
+
+
+find.v.05
+alternative names (lemmas): "find", "feel"
+definition: "come to believe on the basis of emotion, intuitions, or indefinite grounds"
+example usage: "I feel that he doesn't like me", "I find him to be obnoxious", "I found the movie rather entertaining"
+hyponyms: "[]"
+hypernyms: "[Synset('reason.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('reason.v.01'), Synset('find.v.05')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.03
+alternative names (lemmas): "feel", "sense"
+definition: "perceive by a physical sensation, e.g., coming from the skin or muscles"
+example usage: "He felt the wind", "She felt an object brushing her arm", "He felt his flesh crawl", "She felt the heat when she got out of the car"
+hyponyms: "[]"
+hypernyms: "[Synset('perceive.v.01')]"
+hypernym_paths: "[[Synset('perceive.v.01'), Synset('feel.v.03')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.04
+alternative names (lemmas): "feel"
+definition: "be conscious of a physical, mental, or emotional state"
+example usage: "My cold is gone--I feel fine today", "She felt tired after the long hike", "She felt sad after her loss"
+hyponyms: "[Synset('feel_like_a_million.v.01'), Synset('suffocate.v.06')]"
+hypernyms: "[Synset('be.v.01')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('feel.v.04')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.05
+alternative names (lemmas): "feel"
+definition: "have a feeling or perception about oneself in reaction to someone's behavior or attitude"
+example usage: "She felt small and insignificant", "You make me feel naked", "I made the students feel different about themselves"
+hyponyms: "[]"
+hypernyms: "[Synset('think.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('think.v.01'), Synset('feel.v.05')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.06
+alternative names (lemmas): "feel"
+definition: "undergo passive experience of:"We felt the effects of inflation""
+example usage: "her fingers felt their way through the string quartet", "she felt his contempt of her"
+hyponyms: "[]"
+hypernyms: "[Synset('experience.v.01')]"
+hypernym_paths: "[[Synset('change.v.02'), Synset('undergo.v.01'), Synset('experience.v.01'), Synset('feel.v.06')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.07
+alternative names (lemmas): "feel"
+definition: "be felt or perceived in a certain way"
+example usage: "The ground feels shaky", "The sheets feel soft"
+hyponyms: "[Synset('crawl.v.02')]"
+hypernyms: "[Synset('look.v.02')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('look.v.02'), Synset('feel.v.07')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.08
+alternative names (lemmas): "feel"
+definition: "grope or feel in search of something"
+example usage: "He felt for his wallet"
+hyponyms: "[Synset('grope_for.v.01')]"
+hypernyms: "[Synset('search.v.01')]"
+hypernym_paths: "[[Synset('search.v.01'), Synset('feel.v.08')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.09
+alternative names (lemmas): "feel", "finger"
+definition: "examine by touch"
+example usage: "Feel this soft cloth!", "The customer fingered the sweater"
+hyponyms: "[]"
+hypernyms: "[]"
+hypernym_paths: "[[Synset('feel.v.09')]]"
+instance_hypernyms: "[]"
+
+
+palpate.v.01
+alternative names (lemmas): "palpate", "feel"
+definition: "examine (a body part) by palpation"
+example usage: "The nurse palpated the patient's stomach", "The runner felt her pulse"
+hyponyms: "[]"
+hypernyms: "[Synset('touch.v.01')]"
+hypernym_paths: "[[Synset('touch.v.01'), Synset('palpate.v.01')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.11
+alternative names (lemmas): "feel"
+definition: "find by testing or cautious exploration"
+example usage: "He felt his way around the dark room"
+hyponyms: "[]"
+hypernyms: "[Synset('find.v.03')]"
+hypernym_paths: "[[Synset('get.v.01'), Synset('find.v.03'), Synset('feel.v.11')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.12
+alternative names (lemmas): "feel"
+definition: "produce a certain impression"
+example usage: "It feels nice to be home again"
+hyponyms: "[]"
+hypernyms: "[Synset('look.v.02')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('look.v.02'), Synset('feel.v.12')]]"
+instance_hypernyms: "[]"
+
+
+feel.v.13
+alternative names (lemmas): "feel"
+definition: "pass one's hands over the sexual organs of"
+example usage: "He felt the girl in the movie theater"
+hyponyms: "[]"
+hypernyms: "[Synset('touch.v.01')]"
+hypernym_paths: "[[Synset('touch.v.01'), Synset('feel.v.13')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+food.n.01
+alternative names (lemmas): "food", "nutrient"
+definition: "any substance that can be metabolized by an animal to give energy and build tissue"
+hyponyms: "[Synset('beverage.n.01'), Synset('chyme.n.01'), Synset('comestible.n.01'), Synset('comfort_food.n.01'), Synset('commissariat.n.01'), Synset('culture_medium.n.01'), Synset('fare.n.04'), Synset('feed.n.01'), Synset('foodstuff.n.02'), Synset('micronutrient.n.01'), Synset('miraculous_food.n.01'), Synset('nutriment.n.01'), Synset('soul_food.n.01'), Synset('water.n.06'), Synset('yolk.n.02')]"
+hypernyms: "[Synset('substance.n.07')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('substance.n.07'), Synset('food.n.01')]]"
+instance_hypernyms: "[]"
+
+
+food.n.02
+alternative names (lemmas): "food", "solid_food"
+definition: "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+example usage: "food and drink"
+hyponyms: "[Synset('baked_goods.n.01'), Synset('breakfast_food.n.01'), Synset('butter.n.01'), Synset('cheese.n.01'), Synset('chocolate.n.02'), Synset('coconut.n.01'), Synset('convenience_food.n.01'), Synset('dika_bread.n.01'), Synset('fish.n.02'), Synset('fresh_food.n.01'), Synset('health_food.n.01'), Synset('junk_food.n.01'), Synset('leftovers.n.01'), Synset('loaf.n.02'), Synset('meat.n.01'), Synset('pasta.n.02'), Synset('produce.n.01'), Synset('seafood.n.01'), Synset('slop.n.04'), Synset('yogurt.n.01')]"
+hypernyms: "[Synset('solid.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('solid.n.01'), Synset('food.n.02')]]"
+instance_hypernyms: "[]"
+
+
+food.n.03
+alternative names (lemmas): "food", "food_for_thought", "intellectual_nourishment"
+definition: "anything that provides mental stimulus for thinking"
+hyponyms: "[Synset('pabulum.n.02')]"
+hypernyms: "[Synset('content.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('food.n.03')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+furniture.n.01
+alternative names (lemmas): "furniture", "piece_of_furniture", "article_of_furniture"
+definition: "furnishings that make a room or other area ready for occupancy"
+example usage: "they had too much furniture for the small apartment", "there was only one piece of furniture in the room"
+hyponyms: "[Synset('baby_bed.n.01'), Synset('bedroom_furniture.n.01'), Synset('bedstead.n.01'), Synset('bookcase.n.01'), Synset('buffet.n.01'), Synset('cabinet.n.01'), Synset('chest_of_drawers.n.01'), Synset('dining-room_furniture.n.01'), Synset('etagere.n.01'), Synset('fitment.n.01'), Synset('hallstand.n.01'), Synset('lamp.n.02'), Synset('lawn_furniture.n.01'), Synset('nest.n.05'), Synset('office_furniture.n.01'), Synset('seat.n.03'), Synset('sectional.n.01'), Synset('sheraton.n.01'), Synset('sleeper.n.07'), Synset('table.n.02'), Synset('table.n.03'), Synset('wall_unit.n.01'), Synset('wardrobe.n.01'), Synset('washstand.n.01')]"
+hypernyms: "[Synset('furnishing.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('furnishing.n.02'), Synset('furniture.n.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+game.n.01
+alternative names (lemmas): "game"
+definition: "a contest with rules to determine a winner"
+example usage: "you need four people to play this game"
+hyponyms: "[Synset('athletic_game.n.01'), Synset('bowling.n.01'), Synset('card_game.n.01'), Synset('child's_game.n.01'), Synset('curling.n.01'), Synset('game_of_chance.n.01'), Synset('pall-mall.n.01'), Synset('parlor_game.n.01'), Synset('table_game.n.01'), Synset('zero-sum_game.n.01')]"
+hypernyms: "[Synset('activity.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('game.n.01')]]"
+instance_hypernyms: "[]"
+
+
+game.n.02
+alternative names (lemmas): "game"
+definition: "a single play of a sport or other contest"
+example usage: "the game lasted two hours"
+hyponyms: "[Synset('away_game.n.01'), Synset('cup_tie.n.01'), Synset('exhibition_game.n.01'), Synset('home_game.n.01'), Synset('nightcap.n.03'), Synset('playoff_game.n.01'), Synset('twin_bill.n.01')]"
+hypernyms: "[Synset('contest.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('social_event.n.01'), Synset('contest.n.01'), Synset('game.n.02')]]"
+instance_hypernyms: "[]"
+
+
+game.n.03
+alternative names (lemmas): "game"
+definition: "an amusement or pastime"
+example usage: "they played word games", "he thought of his painting as a game that filled his empty time", "his life was all fun and games"
+hyponyms: "[Synset('catch.n.08'), Synset('computer_game.n.01'), Synset('ducks_and_drakes.n.01'), Synset('guessing_game.n.01'), Synset('mind_game.n.01'), Synset('paper_chase.n.01'), Synset('party_game.n.01'), Synset('pinball.n.01'), Synset('prisoner's_base.n.01'), Synset('ring-around-the-rosy.n.01'), Synset('treasure_hunt.n.01')]"
+hypernyms: "[Synset('diversion.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('diversion.n.01'), Synset('game.n.03')]]"
+instance_hypernyms: "[]"
+
+
+game.n.04
+alternative names (lemmas): "game"
+definition: "animal hunted for food or sport"
+hyponyms: "[Synset('big_game.n.01'), Synset('game_bird.n.01')]"
+hypernyms: "[Synset('animal.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('animal.n.01'), Synset('game.n.04')]]"
+instance_hypernyms: "[]"
+
+
+game.n.05
+alternative names (lemmas): "game"
+definition: "(tennis) a division of play during which one player serves"
+hyponyms: "[]"
+hypernyms: "[Synset('part.n.09')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('concept.n.01'), Synset('part.n.09'), Synset('game.n.05')]]"
+instance_hypernyms: "[]"
+
+
+game.n.06
+alternative names (lemmas): "game"
+definition: "(games) the score at a particular point or the score needed to win"
+example usage: "the game is 6 all", "he is serving for the game"
+hyponyms: "[]"
+hypernyms: "[Synset('score.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('definite_quantity.n.01'), Synset('number.n.02'), Synset('score.n.03'), Synset('game.n.06')]]"
+instance_hypernyms: "[]"
+
+
+game.n.07
+alternative names (lemmas): "game"
+definition: "the flesh of wild animals that is used for food"
+hyponyms: "[Synset('buffalo.n.03'), Synset('rabbit.n.03'), Synset('venison.n.01')]"
+hypernyms: "[Synset('meat.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('solid.n.01'), Synset('food.n.02'), Synset('meat.n.01'), Synset('game.n.07')]]"
+instance_hypernyms: "[]"
+
+
+plot.n.01
+alternative names (lemmas): "plot", "secret_plan", "game"
+definition: "a secret scheme to do something (especially something underhand or illegal)"
+example usage: "they concocted a plot to discredit the governor", "I saw through his little game from the start"
+hyponyms: "[Synset('conspiracy.n.02'), Synset('counterplot.n.01'), Synset('intrigue.n.01')]"
+hypernyms: "[Synset('scheme.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('plan.n.01'), Synset('plan_of_action.n.01'), Synset('scheme.n.01'), Synset('plot.n.01')]]"
+instance_hypernyms: "[]"
+
+
+game.n.09
+alternative names (lemmas): "game"
+definition: "the game equipment needed in order to play a particular game"
+example usage: "the child received several games for his birthday"
+hyponyms: "[Synset('puzzle.n.02')]"
+hypernyms: "[Synset('game_equipment.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('equipment.n.01'), Synset('game_equipment.n.01'), Synset('game.n.09')]]"
+instance_hypernyms: "[]"
+
+
+game.n.10
+alternative names (lemmas): "game", "biz"
+definition: "your occupation or line of work"
+example usage: "he's in the plumbing game", "she's in show biz"
+hyponyms: "[]"
+hypernyms: "[Synset('occupation.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('occupation.n.01'), Synset('game.n.10')]]"
+instance_hypernyms: "[]"
+
+
+game.n.11
+alternative names (lemmas): "game"
+definition: "frivolous or trifling behavior"
+example usage: "for actors, memorizing lines is no game", "for him, life is all fun and games"
+hyponyms: "[]"
+hypernyms: "[Synset('play.n.14')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('diversion.n.01'), Synset('play.n.14'), Synset('game.n.11')]]"
+instance_hypernyms: "[]"
+
+
+bet_on.v.01
+alternative names (lemmas): "bet_on", "back", "gage", "stake", "game", "punt"
+definition: "place a bet on"
+example usage: "Which horse are you backing?", "I'm betting on the new horse"
+hyponyms: "[Synset('ante.v.01'), Synset('parlay.v.01')]"
+hypernyms: "[Synset('bet.v.02')]"
+hypernym_paths: "[[Synset('compete.v.01'), Synset('play.v.01'), Synset('gamble.v.02'), Synset('bet.v.02'), Synset('bet_on.v.01')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+plaything.n.01
+alternative names (lemmas): "plaything", "toy"
+definition: "an artifact designed to be played with"
+hyponyms: "[Synset('ball.n.06'), Synset('balloon.n.02'), Synset('cockhorse.n.01'), Synset('doll.n.01'), Synset('dollhouse.n.02'), Synset('frisbee.n.01'), Synset('hobby.n.02'), Synset('hula-hoop.n.01'), Synset('jack-in-the-box.n.01'), Synset('jumping_jack.n.01'), Synset('jungle_gym.n.01'), Synset('kaleidoscope.n.02'), Synset('kite.n.03'), Synset('lego.n.01'), Synset('meccano.n.01'), Synset('pea_shooter.n.01'), Synset('pinata.n.01'), Synset('pinwheel.n.03'), Synset('playhouse.n.01'), Synset('pogo_stick.n.01'), Synset('popgun.n.01'), Synset('rattle.n.02'), Synset('sandbox.n.02'), Synset('seesaw.n.01'), Synset('slide.n.04'), Synset('slingshot.n.01'), Synset('stick_horse.n.01'), Synset('swing.n.02'), Synset('teddy.n.01'), Synset('top.n.08'), Synset('train_set.n.01'), Synset('water_pistol.n.01'), Synset('yo-yo.n.01')]"
+hypernyms: "[Synset('artifact.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('plaything.n.01')]]"
+instance_hypernyms: "[]"
+
+
+toy.n.02
+alternative names (lemmas): "toy"
+definition: "a nonfunctional replica of something else (frequently used as a modifier)"
+example usage: "a toy stove"
+hyponyms: "[]"
+hypernyms: "[Synset('replica.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('creation.n.02'), Synset('representation.n.02'), Synset('copy.n.02'), Synset('replica.n.01'), Synset('toy.n.02')]]"
+instance_hypernyms: "[]"
+
+
+toy.n.03
+alternative names (lemmas): "toy"
+definition: "a device regarded as providing amusement"
+example usage: "private airplanes are a rich man's toy"
+hyponyms: "[]"
+hypernyms: "[Synset('device.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('device.n.01'), Synset('toy.n.03')]]"
+instance_hypernyms: "[]"
+
+
+miniature.n.02
+alternative names (lemmas): "miniature", "toy"
+definition: "a copy that reproduces a person or thing in greatly reduced size"
+hyponyms: "[]"
+hypernyms: "[Synset('copy.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('creation.n.02'), Synset('representation.n.02'), Synset('copy.n.02'), Synset('miniature.n.02')]]"
+instance_hypernyms: "[]"
+
+
+toy_dog.n.01
+alternative names (lemmas): "toy_dog", "toy"
+definition: "any of several breeds of very small dogs kept purely as pets"
+hyponyms: "[Synset('chihuahua.n.03'), Synset('japanese_spaniel.n.01'), Synset('maltese_dog.n.01'), Synset('pekinese.n.01'), Synset('shih-tzu.n.01'), Synset('toy_spaniel.n.01'), Synset('toy_terrier.n.01')]"
+hypernyms: "[Synset('dog.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('animal.n.01'), Synset('chordate.n.01'), Synset('vertebrate.n.01'), Synset('mammal.n.01'), Synset('placental.n.01'), Synset('carnivore.n.01'), Synset('canine.n.02'), Synset('dog.n.01'), Synset('toy_dog.n.01')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('animal.n.01'), Synset('domestic_animal.n.01'), Synset('dog.n.01'), Synset('toy_dog.n.01')]]"
+instance_hypernyms: "[]"
+
+
+dally.v.01
+alternative names (lemmas): "dally", "toy", "play", "flirt"
+definition: "behave carelessly or indifferently"
+example usage: "Play about with a young girl's affection"
+hyponyms: "[]"
+hypernyms: "[Synset('act.v.01')]"
+hypernym_paths: "[[Synset('act.v.01'), Synset('dally.v.01')]]"
+instance_hypernyms: "[]"
+
+
+toy.v.02
+alternative names (lemmas): "toy", "fiddle", "diddle", "play"
+definition: "manipulate manually or in one's mind or imagination"
+example usage: "She played nervously with her wedding ring", "Don't fiddle with the screws", "He played with the idea of running for the Senate"
+hyponyms: "[Synset('put_out.v.07')]"
+hypernyms: "[Synset('manipulate.v.02')]"
+hypernym_paths: "[[Synset('touch.v.01'), Synset('handle.v.04'), Synset('manipulate.v.02'), Synset('toy.v.02')]]"
+instance_hypernyms: "[]"
+
+
+play.v.16
+alternative names (lemmas): "play", "toy"
+definition: "engage in an activity as if it were a game rather than take it seriously"
+example usage: "They played games on their opponents", "play the stock market", "play with her feelings", "toy with an idea"
+hyponyms: "[]"
+hypernyms: "[Synset('act.v.02')]"
+hypernym_paths: "[[Synset('act.v.02'), Synset('play.v.16')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+health.n.01
+alternative names (lemmas): "health", "wellness"
+definition: "a healthy state of wellbeing free from disease"
+example usage: "physicians should be held responsible for the health of their patients"
+hyponyms: "[]"
+hypernyms: "[Synset('wellbeing.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.03'), Synset('fortune.n.04'), Synset('good_fortune.n.01'), Synset('prosperity.n.02'), Synset('wellbeing.n.01'), Synset('health.n.01')]]"
+instance_hypernyms: "[]"
+
+
+health.n.02
+alternative names (lemmas): "health"
+definition: "the general condition of body and mind"
+example usage: "his delicate health", "in poor health"
+hyponyms: "[]"
+hypernyms: "[Synset('condition.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('health.n.02')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+material.n.01
+alternative names (lemmas): "material", "stuff"
+definition: "the tangible substance that goes into the makeup of a physical object"
+example usage: "coal is a hard black material", "wheat is the stuff they use to make bread"
+hyponyms: "[Synset('abrasive.n.01'), Synset('adhesive_material.n.01'), Synset('aggregate.n.02'), Synset('ammunition.n.02'), Synset('animal_material.n.01'), Synset('atom.n.02'), Synset('ballast.n.01'), Synset('bedding_material.n.01'), Synset('bimetal.n.01'), Synset('builder.n.01'), Synset('chemical.n.01'), Synset('coloring_material.n.01'), Synset('composite_material.n.01'), Synset('conductor.n.02'), Synset('contaminant.n.01'), Synset('detritus.n.02'), Synset('diamagnet.n.01'), Synset('discharge.n.03'), Synset('dust.n.03'), Synset('earth.n.02'), Synset('elastomer.n.01'), Synset('fiber.n.01'), Synset('filling.n.01'), Synset('floccule.n.01'), Synset('fluff.n.01'), Synset('foam.n.02'), Synset('hazmat.n.01'), Synset('homogenate.n.01'), Synset('humate.n.01'), Synset('impregnation.n.01'), Synset('insulator.n.01'), Synset('mineral.n.01'), Synset('packing_material.n.01'), Synset('paper.n.01'), Synset('particulate.n.01'), Synset('plant_material.n.01'), Synset('precursor.n.01'), Synset('radioactive_material.n.01'), Synset('raw_material.n.01'), Synset('rind.n.01'), Synset('rock.n.02'), Synset('sealing_material.n.01'), Synset('sorbate.n.01'), Synset('sorbent.n.01'), Synset('thickening.n.01'), Synset('toner.n.02'), Synset('transparent_substance.n.01'), Synset('undercut.n.01'), Synset('vernix.n.01'), Synset('wad.n.01'), Synset('waste.n.01')]"
+hypernyms: "[Synset('substance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('substance.n.01'), Synset('material.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('relation.n.01'), Synset('part.n.01'), Synset('substance.n.01'), Synset('material.n.01')]]"
+instance_hypernyms: "[]"
+
+
+material.n.02
+alternative names (lemmas): "material"
+definition: "information (data or ideas or observations) that can be used or reworked into a finished form"
+example usage: "the archives provided rich material for a definitive biography"
+hyponyms: "[Synset('copy.n.04'), Synset('rehash.n.01')]"
+hypernyms: "[Synset('information.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('message.n.02'), Synset('information.n.01'), Synset('material.n.02')]]"
+instance_hypernyms: "[]"
+
+
+fabric.n.01
+alternative names (lemmas): "fabric", "cloth", "material", "textile"
+definition: "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers"
+example usage: "the fabric in the curtains was light and semitransparent", "woven cloth originated in Mesopotamia around 5000 BC", "she measured off enough material for a dress"
+hyponyms: "[Synset('aba.n.02'), Synset('acrylic.n.04'), Synset('aertex.n.01'), Synset('alpaca.n.02'), Synset('baize.n.01'), Synset('basket_weave.n.01'), Synset('batik.n.01'), Synset('batiste.n.01'), Synset('belting.n.01'), Synset('bombazine.n.01'), Synset('boucle.n.01'), Synset('broadcloth.n.01'), Synset('broadcloth.n.02'), Synset('brocade.n.01'), Synset('buckram.n.01'), Synset('bunting.n.01'), Synset('calico.n.01'), Synset('cambric.n.01'), Synset('camel's_hair.n.01'), Synset('camlet.n.02'), Synset('camouflage.n.02'), Synset('canopy.n.02'), Synset('canvas.n.01'), Synset('cashmere.n.01'), Synset('cerecloth.n.01'), Synset('challis.n.01'), Synset('chambray.n.01'), Synset('chenille.n.02'), Synset('chiffon.n.01'), Synset('chino.n.02'), Synset('chintz.n.01'), Synset('coating.n.03'), Synset('cobweb.n.01'), Synset('cord.n.04'), Synset('cotton.n.02'), Synset('cotton_flannel.n.01'), Synset('crepe.n.03'), Synset('cretonne.n.01'), Synset('crinoline.n.03'), Synset('damask.n.02'), Synset('denim.n.02'), Synset('diamante.n.02'), Synset('diaper.n.02'), Synset('dimity.n.01'), Synset('doeskin.n.02'), Synset('drapery.n.02'), Synset('duck.n.04'), Synset('duffel.n.02'), Synset('elastic.n.02'), Synset('etamine.n.01'), Synset('faille.n.01'), Synset('felt.n.01'), Synset('fiber.n.05'), Synset('flannel.n.01'), Synset('flannelette.n.01'), Synset('fleece.n.03'), Synset('foulard.n.01'), Synset('frieze.n.02'), Synset('fustian.n.02'), Synset('gabardine.n.01'), Synset('georgette.n.01'), Synset('gingham.n.01'), Synset('grogram.n.01'), Synset('grosgrain.n.01'), Synset('haircloth.n.01'), Synset('herringbone.n.01'), Synset('homespun.n.01'), Synset('hopsacking.n.01'), Synset('horsehair.n.02'), Synset('jaconet.n.01'), Synset('jacquard.n.02'), Synset('khadi.n.01'), Synset('khaki.n.01'), Synset('knit.n.01'), Synset('lace.n.02'), Synset('lame.n.02'), Synset('leatherette.n.01'), Synset('linen.n.01'), Synset('linsey-woolsey.n.01'), Synset('lint.n.02'), Synset('lisle.n.01'), Synset('mackinaw.n.04'), Synset('mackintosh.n.01'), Synset('madras.n.03'), Synset('marseille.n.02'), Synset('metallic.n.01'), Synset('mohair.n.01'), Synset('moire.n.01'), Synset('moleskin.n.01'), Synset('monk's_cloth.n.01'), Synset('moquette.n.01'), Synset('moreen.n.01'), Synset('motley.n.03'), Synset('mousseline_de_sole.n.01'), Synset('muslin.n.01'), Synset('nankeen.n.01'), Synset('net.n.06'), Synset('ninon.n.01'), Synset('nylon.n.02'), Synset('oilcloth.n.01'), Synset('olive_drab.n.03'), Synset('organza.n.01'), Synset('paisley.n.01'), Synset('panting.n.02'), Synset('pepper-and-salt.n.01'), Synset('percale.n.01'), Synset('permanent_press.n.01'), Synset('piece_of_cloth.n.01'), Synset('pilot_cloth.n.01'), Synset('pina_cloth.n.01'), Synset('pinstripe.n.02'), Synset('pique.n.01'), Synset('plush.n.01'), Synset('polyester.n.03'), Synset('pongee.n.01'), Synset('poplin.n.01'), Synset('print.n.06'), Synset('quilting.n.02'), Synset('rayon.n.01'), Synset('rep.n.02'), Synset('sackcloth.n.02'), Synset('sacking.n.01'), Synset('sailcloth.n.01'), Synset('samite.n.01'), Synset('sateen.n.01'), Synset('satin.n.01'), Synset('satinet.n.01'), Synset('screening.n.02'), Synset('scrim.n.01'), Synset('seersucker.n.01'), Synset('serge.n.01'), Synset('shag.n.03'), Synset('shantung.n.01'), Synset('sharkskin.n.01'), Synset('sheeting.n.01'), Synset('shirting.n.01'), Synset('shirttail.n.02'), Synset('silesia.n.02'), Synset('silk.n.01'), Synset('spandex.n.01'), Synset('sponge_cloth.n.01'), Synset('stammel.n.01'), Synset('suede_cloth.n.01'), Synset('suiting.n.01'), Synset('swan's_down.n.01'), Synset('taffeta.n.01'), Synset('tammy.n.01'), Synset('tapa.n.02'), Synset('tapestry.n.02'), Synset('tartan.n.01'), Synset('terry.n.02'), Synset('ticking.n.02'), Synset('toweling.n.01'), Synset('tweed.n.01'), Synset('twill.n.02'), Synset('upholstery_material.n.01'), Synset('velcro.n.01'), Synset('velour.n.01'), Synset('velvet.n.01'), Synset('velveteen.n.01'), Synset('vicuna.n.02'), Synset('viyella.n.01'), Synset('voile.n.01'), Synset('wash-and-wear.n.01'), Synset('waterproof.n.01'), Synset('web.n.06'), Synset('webbing.n.03'), Synset('whipcord.n.02'), Synset('wincey.n.01'), Synset('wire_cloth.n.01'), Synset('wool.n.01'), Synset('worsted.n.01'), Synset('yoke.n.01')]"
+hypernyms: "[Synset('artifact.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('fabric.n.01')]]"
+instance_hypernyms: "[]"
+
+
+material.n.04
+alternative names (lemmas): "material"
+definition: "things needed for doing or making something"
+example usage: "writing materials", "useful teaching materials"
+hyponyms: "[Synset('packaging.n.03'), Synset('railing.n.02'), Synset('roofing.n.01')]"
+hypernyms: "[Synset('equipment.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('equipment.n.01'), Synset('material.n.04')]]"
+instance_hypernyms: "[]"
+
+
+material.n.05
+alternative names (lemmas): "material"
+definition: "a person judged suitable for admission or employment"
+example usage: "he was university material", "she was vice-presidential material"
+hyponyms: "[]"
+hypernyms: "[Synset('applicant.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('causal_agent.n.01'), Synset('person.n.01'), Synset('applicant.n.01'), Synset('material.n.05')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('person.n.01'), Synset('applicant.n.01'), Synset('material.n.05')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+nature.n.01
+alternative names (lemmas): "nature"
+definition: "the essential qualities or characteristics by which something is recognized"
+example usage: "it is the nature of fire to burn", "the true nature of jealousy"
+hyponyms: "[]"
+hypernyms: "[Synset('quality.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('nature.n.01')]]"
+instance_hypernyms: "[]"
+
+
+nature.n.02
+alternative names (lemmas): "nature"
+definition: "a causal agent creating and controlling things in the universe"
+example usage: "the laws of nature", "nature has seen to it that men are stronger than women"
+hyponyms: "[]"
+hypernyms: "[Synset('causal_agent.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('causal_agent.n.01'), Synset('nature.n.02')]]"
+instance_hypernyms: "[]"
+
+
+nature.n.03
+alternative names (lemmas): "nature"
+definition: "the natural physical world including plants and animals and landscapes etc."
+example usage: "they tried to preserve nature as they found it"
+hyponyms: "[]"
+hypernyms: "[Synset('universe.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('natural_object.n.01'), Synset('universe.n.01'), Synset('nature.n.03')]]"
+instance_hypernyms: "[]"
+
+
+nature.n.04
+alternative names (lemmas): "nature"
+definition: "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions"
+example usage: "it is his nature to help others"
+hyponyms: "[Synset('animality.n.01'), Synset('complexion.n.05'), Synset('disposition.n.01'), Synset('sociality.n.01')]"
+hypernyms: "[Synset('trait.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('trait.n.01'), Synset('nature.n.04')]]"
+instance_hypernyms: "[]"
+
+
+nature.n.05
+alternative names (lemmas): "nature"
+definition: "a particular type of thing"
+example usage: "problems of this type are very difficult to solve", "he's interested in trains and things of that nature", "matters of a personal nature"
+hyponyms: "[]"
+hypernyms: "[Synset('type.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('concept.n.01'), Synset('category.n.02'), Synset('kind.n.01'), Synset('type.n.01'), Synset('nature.n.05')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+number.n.01
+alternative names (lemmas): "number", "figure"
+definition: "the property possessed by a sum or total or indefinite quantity of units or individuals"
+example usage: "he had a number of chores to do", "the number of parameters is small", "the figure was about a thousand"
+hyponyms: "[Synset('fewness.n.01'), Synset('innumerableness.n.01'), Synset('majority.n.01'), Synset('minority.n.02'), Synset('numerousness.n.01'), Synset('preponderance.n.02'), Synset('roundness.n.02')]"
+hypernyms: "[Synset('amount.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('magnitude.n.01'), Synset('amount.n.02'), Synset('number.n.01')]]"
+instance_hypernyms: "[]"
+
+
+number.n.02
+alternative names (lemmas): "number"
+definition: "a concept of quantity involving zero and units"
+example usage: "every number has a unique position in the sequence"
+hyponyms: "[Synset('addend.n.01'), Synset('arity.n.01'), Synset('atomic_number.n.01'), Synset('augend.n.01'), Synset('baryon_number.n.01'), Synset('base.n.13'), Synset('biquadrate.n.01'), Synset('cardinal_number.n.01'), Synset('cardinality.n.01'), Synset('complex_number.n.01'), Synset('composite_number.n.01'), Synset('compound_number.n.01'), Synset('constant.n.02'), Synset('coordinate.n.01'), Synset('count.n.01'), Synset('cube.n.03'), Synset('decimal.n.02'), Synset('dividend.n.02'), Synset('divisor.n.02'), Synset('factor.n.05'), Synset('fibonacci_number.n.01'), Synset('fixed-point_number.n.01'), Synset('floating-point_number.n.01'), Synset('integer.n.01'), Synset('linage.n.01'), Synset('minuend.n.01'), Synset('multiplicand.n.01'), Synset('multiplier.n.01'), Synset('natural_number.n.01'), Synset('ordinal_number.n.01'), Synset('oxidation_number.n.01'), Synset('pagination.n.01'), Synset('prime.n.01'), Synset('quota.n.01'), Synset('quotient.n.02'), Synset('record.n.03'), Synset('remainder.n.02'), Synset('remainder.n.03'), Synset('root.n.04'), Synset('score.n.03'), Synset('square.n.02'), Synset('subtrahend.n.01')]"
+hypernyms: "[Synset('definite_quantity.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('definite_quantity.n.01'), Synset('number.n.02')]]"
+instance_hypernyms: "[]"
+
+
+act.n.04
+alternative names (lemmas): "act", "routine", "number", "turn", "bit"
+definition: "a short theatrical performance that is part of a longer program"
+example usage: "he did his act three times every evening", "she had a catchy little routine", "it was one of the best numbers he ever did"
+hyponyms: "[Synset('show-stopper.n.01')]"
+hypernyms: "[Synset('performance.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('social_event.n.01'), Synset('show.n.03'), Synset('performance.n.01'), Synset('act.n.04')]]"
+instance_hypernyms: "[]"
+
+
+phone_number.n.01
+alternative names (lemmas): "phone_number", "telephone_number", "number"
+definition: "the number is used in calling a particular telephone"
+example usage: "he has an unlisted number"
+hyponyms: "[]"
+hypernyms: "[Synset('signal.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('signal.n.01'), Synset('phone_number.n.01')]]"
+instance_hypernyms: "[]"
+
+
+numeral.n.01
+alternative names (lemmas): "numeral", "number"
+definition: "a symbol used to represent a number"
+example usage: "he learned to write the numerals before he went to school"
+hyponyms: "[Synset('antilogarithm.n.01'), Synset('arabic_numeral.n.01'), Synset('roman_numeral.n.01')]"
+hypernyms: "[Synset('symbol.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('signal.n.01'), Synset('symbol.n.01'), Synset('numeral.n.01')]]"
+instance_hypernyms: "[]"
+
+
+issue.n.02
+alternative names (lemmas): "issue", "number"
+definition: "one of a series published periodically"
+example usage: "she found an old issue of the magazine in her dentist's waiting room"
+hyponyms: "[Synset('edition.n.03')]"
+hypernyms: "[Synset('periodical.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('creation.n.02'), Synset('product.n.02'), Synset('work.n.02'), Synset('publication.n.01'), Synset('periodical.n.01'), Synset('issue.n.02')]]"
+instance_hypernyms: "[]"
+
+
+number.n.07
+alternative names (lemmas): "number"
+definition: "a select company of people"
+example usage: "I hope to become one of their number before I die"
+hyponyms: "[]"
+hypernyms: "[Synset('company.n.06')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('social_group.n.01'), Synset('gathering.n.01'), Synset('social_gathering.n.01'), Synset('company.n.06'), Synset('number.n.07')]]"
+instance_hypernyms: "[]"
+
+
+number.n.08
+alternative names (lemmas): "number", "identification_number"
+definition: "a numeral or string of numerals that is used for identification"
+example usage: "she refused to give them her Social Security number"
+hyponyms: "[Synset('bank_identification_number.n.01'), Synset('license_number.n.01'), Synset('personal_identification_number.n.01'), Synset('social_security_number.n.01')]"
+hypernyms: "[Synset('positive_identification.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('indication.n.01'), Synset('evidence.n.02'), Synset('identification.n.02'), Synset('positive_identification.n.01'), Synset('number.n.08')]]"
+instance_hypernyms: "[]"
+
+
+number.n.09
+alternative names (lemmas): "number"
+definition: "a clothing measurement"
+example usage: "a number 13 shoe"
+hyponyms: "[]"
+hypernyms: "[Synset('size.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('size.n.02'), Synset('number.n.09')]]"
+instance_hypernyms: "[]"
+
+
+number.n.10
+alternative names (lemmas): "number"
+definition: "the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)"
+example usage: "in English the subject and the verb must agree in number"
+hyponyms: "[]"
+hypernyms: "[Synset('grammatical_category.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('collection.n.01'), Synset('class.n.01'), Synset('grammatical_category.n.01'), Synset('number.n.10')]]"
+instance_hypernyms: "[]"
+
+
+number.n.11
+alternative names (lemmas): "number"
+definition: "an item of merchandise offered for sale"
+example usage: "she preferred the black nylon number", "this sweater is an all-wool number"
+hyponyms: "[]"
+hypernyms: "[Synset('merchandise.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('commodity.n.01'), Synset('merchandise.n.01'), Synset('number.n.11')]]"
+instance_hypernyms: "[]"
+
+
+total.v.01
+alternative names (lemmas): "total", "number", "add_up", "come", "amount"
+definition: "add up in number or quantity"
+example usage: "The bills amounted to $2,000", "The bill came to $2,000"
+hyponyms: "[Synset('average.v.01'), Synset('make.v.32'), Synset('outnumber.v.01'), Synset('work_out.v.05')]"
+hypernyms: "[Synset('be.v.01')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('total.v.01')]]"
+instance_hypernyms: "[]"
+
+
+number.v.02
+alternative names (lemmas): "number"
+definition: "give numbers to"
+example usage: "You should number the pages of the thesis"
+hyponyms: "[Synset('foliate.v.04')]"
+hypernyms: "[Synset('designate.v.01')]"
+hypernym_paths: "[[Synset('designate.v.01'), Synset('number.v.02')]]"
+instance_hypernyms: "[]"
+
+
+number.v.03
+alternative names (lemmas): "number", "list"
+definition: "enumerate"
+example usage: "We must number the names of the great mathematicians"
+hyponyms: "[Synset('itemize.v.02')]"
+hypernyms: "[Synset('name.v.02')]"
+hypernym_paths: "[[Synset('mean.v.03'), Synset('denote.v.02'), Synset('name.v.02'), Synset('number.v.03')]]"
+instance_hypernyms: "[]"
+
+
+count.v.05
+alternative names (lemmas): "count", "number"
+definition: "put into a group"
+example usage: "The academy counts several Nobel Prize winners among its members"
+hyponyms: "[]"
+hypernyms: "[Synset('classify.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('reason.v.03'), Synset('categorize.v.01'), Synset('classify.v.01'), Synset('count.v.05')]]"
+instance_hypernyms: "[]"
+
+
+count.v.01
+alternative names (lemmas): "count", "number", "enumerate", "numerate"
+definition: "determine the number or amount of"
+example usage: "Can you count the books on your shelf?", "Count your change"
+hyponyms: "[Synset('census.v.01'), Synset('miscount.v.01'), Synset('recount.v.02'), Synset('total.v.02')]"
+hypernyms: "[Synset('determine.v.01')]"
+hypernym_paths: "[[Synset('determine.v.01'), Synset('count.v.01')]]"
+instance_hypernyms: "[]"
+
+
+number.v.06
+alternative names (lemmas): "number", "keep_down"
+definition: "place a limit on the number of"
+hyponyms: "[]"
+hypernyms: "[Synset('limit.v.02')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('decrease.v.02'), Synset('limit.v.02'), Synset('number.v.06')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+object.n.01
+alternative names (lemmas): "object", "physical_object"
+definition: "a tangible and visible entity; an entity that can cast a shadow"
+example usage: "it was full of rackets, balls and other objects"
+hyponyms: "[Synset('catch.n.04'), Synset('charm.n.03'), Synset('commemorative.n.01'), Synset('curio.n.01'), Synset('discard.n.01'), Synset('draw.n.04'), Synset('film.n.04'), Synset('finding.n.03'), Synset('floater.n.07'), Synset('fomite.n.01'), Synset('geological_formation.n.01'), Synset('growth.n.07'), Synset('hail.n.02'), Synset('head.n.17'), Synset('hoodoo.n.04'), Synset('ice.n.02'), Synset('je_ne_sais_quoi.n.01'), Synset('keepsake.n.01'), Synset('land.n.02'), Synset('land.n.04'), Synset('location.n.01'), Synset('makeweight.n.01'), Synset('moon.n.02'), Synset('neighbor.n.02'), Synset('paring.n.02'), Synset('part.n.02'), Synset('property.n.05'), Synset('remains.n.01'), Synset('ribbon.n.01'), Synset('shiner.n.02'), Synset('snake.n.05'), Synset('stuff.n.02'), Synset('triviality.n.03'), Synset('vagabond.n.01'), Synset('wall.n.02'), Synset('web.n.01'), Synset('whole.n.02')]"
+hypernyms: "[Synset('physical_entity.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01')]]"
+instance_hypernyms: "[]"
+
+
+aim.n.02
+alternative names (lemmas): "aim", "object", "objective", "target"
+definition: "the goal intended to be attained (and which is believed to be attainable)"
+example usage: "the sole object of her trip was to see her children"
+hyponyms: "[Synset('business.n.05'), Synset('grail.n.01'), Synset('point.n.07'), Synset('thing.n.10')]"
+hypernyms: "[Synset('goal.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('goal.n.01'), Synset('aim.n.02')]]"
+instance_hypernyms: "[]"
+
+
+object.n.03
+alternative names (lemmas): "object"
+definition: "(grammar) a constituent that is acted upon"
+example usage: "the object of the verb"
+hyponyms: "[Synset('direct_object.n.01'), Synset('indirect_object.n.01'), Synset('prepositional_object.n.01'), Synset('retained_object.n.01')]"
+hypernyms: "[Synset('constituent.n.04')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('language.n.01'), Synset('string_of_words.n.01'), Synset('syntagma.n.01'), Synset('constituent.n.04'), Synset('object.n.03')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('arrangement.n.02'), Synset('ordering.n.01'), Synset('series.n.01'), Synset('sequence.n.01'), Synset('string.n.05'), Synset('string_of_words.n.01'), Synset('syntagma.n.01'), Synset('constituent.n.04'), Synset('object.n.03')]]"
+instance_hypernyms: "[]"
+
+
+object.n.04
+alternative names (lemmas): "object"
+definition: "the focus of cognitions or feelings"
+example usage: "objects of thought", "the object of my affection"
+hyponyms: "[Synset('antipathy.n.02'), Synset('bugbear.n.02'), Synset('center.n.06'), Synset('execration.n.03'), Synset('hallucination.n.03'), Synset('infatuation.n.03'), Synset('love.n.02')]"
+hypernyms: "[Synset('content.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('object.n.04')]]"
+instance_hypernyms: "[]"
+
+
+object.n.05
+alternative names (lemmas): "object"
+definition: "(computing) a discrete item that provides a description of virtually anything known to a computer"
+example usage: "in object-oriented programming, objects include data and define its status, its methods of operation and how it interacts with other objects"
+hyponyms: "[]"
+hypernyms: "[Synset('computer_science.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('knowledge_domain.n.01'), Synset('discipline.n.01'), Synset('engineering.n.02'), Synset('computer_science.n.01'), Synset('object.n.05')]]"
+instance_hypernyms: "[]"
+
+
+object.v.01
+alternative names (lemmas): "object"
+definition: "express or raise an objection or protest or criticism or express dissent"
+example usage: "She never objected to the amount of work her boss charged her with", "When asked to drive the truck, she objected that she did not have a driver's license"
+hyponyms: "[Synset('cavil.v.01'), Synset('challenge.v.04'), Synset('demur.v.01'), Synset('mind.v.01'), Synset('raise_hell.v.01'), Synset('remonstrate.v.01')]"
+hypernyms: "[Synset('disapprove.v.02')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('disapprove.v.02'), Synset('object.v.01')]]"
+instance_hypernyms: "[]"
+
+
+object.v.02
+alternative names (lemmas): "object"
+definition: "be averse to or express disapproval of"
+example usage: "My wife objects to modern furniture"
+hyponyms: "[]"
+hypernyms: "[Synset('be.v.01')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('object.v.02')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+people.n.01
+alternative names (lemmas): "people"
+definition: "(plural) any group of human beings (men or women or children) collectively"
+example usage: "old people", "there were at least 200 people in the audience"
+hyponyms: "[Synset('age_group.n.01'), Synset('ancients.n.01'), Synset('baffled.n.01'), Synset('blind.n.01'), Synset('blood.n.05'), Synset('brave.n.02'), Synset('business_people.n.01'), Synset('chosen_people.n.01'), Synset('class.n.03'), Synset('clientele.n.01'), Synset('coevals.n.01'), Synset('damned.n.01'), Synset('dead.n.01'), Synset('deaf.n.01'), Synset('defeated.n.01'), Synset('disabled.n.01'), Synset('doomed.n.01'), Synset('enemy.n.03'), Synset('episcopacy.n.01'), Synset('folk.n.01'), Synset('free.n.01'), Synset('homebound.n.01'), Synset('initiate.n.03'), Synset('living.n.02'), Synset('lobby.n.02'), Synset('mentally_retarded.n.01'), Synset('migration.n.02'), Synset('nation.n.02'), Synset('nationality.n.01'), Synset('network_army.n.01'), Synset('peanut_gallery.n.01'), Synset('peoples.n.01'), Synset('pocket.n.07'), Synset('poor_people.n.01'), Synset('populace.n.01'), Synset('population.n.01'), Synset('rank_and_file.n.02'), Synset('retreated.n.01'), Synset('rich_people.n.01'), Synset('sick.n.01'), Synset('smart_money.n.03'), Synset('timid.n.01'), Synset('tradespeople.n.01'), Synset('unconfessed.n.01'), Synset('unemployed_people.n.01'), Synset('uninitiate.n.01'), Synset('womankind.n.01'), Synset('wounded.n.01')]"
+hypernyms: "[Synset('group.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('people.n.01')]]"
+instance_hypernyms: "[]"
+
+
+citizenry.n.01
+alternative names (lemmas): "citizenry", "people"
+definition: "the body of citizens of a state or country"
+example usage: "the Spanish people"
+hyponyms: "[Synset('achaean.n.02'), Synset('aeolian.n.02'), Synset('country_people.n.01'), Synset('dorian.n.02'), Synset('electorate.n.01'), Synset('governed.n.01'), Synset('ionian.n.02')]"
+hypernyms: "[Synset('group.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('citizenry.n.01')]]"
+instance_hypernyms: "[]"
+
+
+people.n.03
+alternative names (lemmas): "people"
+definition: "members of a family line"
+example usage: "his people have been farmers for generations", "are your people still alive?"
+hyponyms: "[]"
+hypernyms: "[Synset('family.n.04')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('social_group.n.01'), Synset('kin.n.02'), Synset('genealogy.n.01'), Synset('lineage.n.01'), Synset('family.n.04'), Synset('people.n.03')]]"
+instance_hypernyms: "[]"
+
+
+multitude.n.03
+alternative names (lemmas): "multitude", "masses", "mass", "hoi_polloi", "people", "the_great_unwashed"
+definition: "the common people generally"
+example usage: "separate the warriors from the mass", "power to the people"
+hyponyms: "[Synset('audience.n.02'), Synset('following.n.01'), Synset('laity.n.01')]"
+hypernyms: "[Synset('group.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('multitude.n.03')]]"
+instance_hypernyms: "[]"
+
+
+people.v.01
+alternative names (lemmas): "people"
+definition: "fill with people"
+example usage: "Stalin wanted to people the empty steppes"
+hyponyms: "[]"
+hypernyms: "[Synset('populate.v.02')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('fill.v.01'), Synset('populate.v.02'), Synset('people.v.01')]]"
+instance_hypernyms: "[]"
+
+
+people.v.02
+alternative names (lemmas): "people"
+definition: "furnish with people"
+example usage: "The plains are sparsely populated"
+hyponyms: "[]"
+hypernyms: "[Synset('populate.v.01')]"
+hypernym_paths: "[[Synset('be.v.03'), Synset('populate.v.01'), Synset('people.v.02')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+topographic_point.n.01
+alternative names (lemmas): "topographic_point", "place", "spot"
+definition: "a point located with respect to surface features of some region"
+example usage: "this is a nice place for a picnic", "a bright spot on a planet"
+hyponyms: "[Synset('birthplace.n.01'), Synset('end.n.10'), Synset('grave.n.02'), Synset('hiding_place.n.01'), Synset('high.n.05'), Synset('hole-in-the-wall.n.01'), Synset('holy_place.n.01'), Synset('junction.n.01'), Synset('mecca.n.02'), Synset('nesting_place.n.01'), Synset('overlook.n.01'), Synset('peak.n.04'), Synset('polling_place.n.01'), Synset('pool.n.08'), Synset('rendezvous.n.02'), Synset('scour.n.01'), Synset('service_area.n.01'), Synset('showplace.n.01'), Synset('solitude.n.03'), Synset('stop.n.05'), Synset('target.n.03'), Synset('zone.n.01')]"
+hypernyms: "[Synset('point.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('point.n.02'), Synset('topographic_point.n.01')]]"
+instance_hypernyms: "[]"
+
+
+place.n.02
+alternative names (lemmas): "place", "property"
+definition: "any area set aside for a particular purpose"
+example usage: "who owns this place?", "the president was concerned about the property across from the White House"
+hyponyms: "[Synset('boatyard.n.01'), Synset('center.n.11'), Synset('colony.n.04'), Synset('hatchery.n.01'), Synset('sanctuary.n.01')]"
+hypernyms: "[Synset('geographical_area.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('geographical_area.n.01'), Synset('place.n.02')]]"
+instance_hypernyms: "[]"
+
+
+place.n.03
+alternative names (lemmas): "place"
+definition: "an abstract mental location"
+example usage: "he has a special place in my thoughts", "a place in my heart", "a political system with no place for the less prominent groups"
+hyponyms: "[Synset('level.n.07')]"
+hypernyms: "[Synset('cognition.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('place.n.03')]]"
+instance_hypernyms: "[]"
+
+
+place.n.04
+alternative names (lemmas): "place"
+definition: "a general vicinity"
+example usage: "He comes from a place near Chicago"
+hyponyms: "[]"
+hypernyms: "[Synset('vicinity.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('area.n.01'), Synset('section.n.03'), Synset('vicinity.n.01'), Synset('place.n.04')]]"
+instance_hypernyms: "[]"
+
+
+stead.n.01
+alternative names (lemmas): "stead", "position", "place", "lieu"
+definition: "the post or function properly or customarily occupied or served by another"
+example usage: "can you go in my stead?", "took his place", "in lieu of"
+hyponyms: "[Synset('behalf.n.01')]"
+hypernyms: "[Synset('function.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('work.n.01'), Synset('duty.n.02'), Synset('function.n.03'), Synset('stead.n.01')]]"
+instance_hypernyms: "[]"
+
+
+place.n.06
+alternative names (lemmas): "place", "shoes"
+definition: "a particular situation"
+example usage: "If you were in my place what would you do?"
+hyponyms: "[]"
+hypernyms: "[Synset('situation.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('situation.n.02'), Synset('place.n.06')]]"
+instance_hypernyms: "[]"
+
+
+home.n.01
+alternative names (lemmas): "home", "place"
+definition: "where you live at a particular time"
+example usage: "deliver the package to my home", "he doesn't have a home to go to", "your place or mine?"
+hyponyms: "[Synset('home_away_from_home.n.01')]"
+hypernyms: "[Synset('residence.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('point.n.02'), Synset('geographic_point.n.01'), Synset('address.n.02'), Synset('residence.n.01'), Synset('home.n.01')]]"
+instance_hypernyms: "[]"
+
+
+position.n.06
+alternative names (lemmas): "position", "post", "berth", "office", "spot", "billet", "place", "situation"
+definition: "a job in an organization"
+example usage: "he occupied a post in the treasury"
+hyponyms: "[Synset('academicianship.n.01'), Synset('accountantship.n.01'), Synset('admiralty.n.02'), Synset('ambassadorship.n.01'), Synset('apostleship.n.01'), Synset('apprenticeship.n.01'), Synset('associateship.n.01'), Synset('attorneyship.n.01'), Synset('bailiffship.n.01'), Synset('baronetage.n.02'), Synset('bishopry.n.01'), Synset('cadetship.n.01'), Synset('caliphate.n.03'), Synset('captainship.n.01'), Synset('cardinalship.n.01'), Synset('chairmanship.n.01'), Synset('chancellorship.n.01'), Synset('chaplaincy.n.01'), Synset('chieftaincy.n.01'), Synset('clerkship.n.01'), Synset('commandership.n.01'), Synset('comptrollership.n.01'), Synset('consulship.n.01'), Synset('controllership.n.01'), Synset('councillorship.n.01'), Synset('counselorship.n.01'), Synset('curacy.n.01'), Synset('curatorship.n.01'), Synset('custodianship.n.01'), Synset('deanship.n.01'), Synset('directorship.n.01'), Synset('discipleship.n.01'), Synset('editorship.n.01'), Synset('eldership.n.01'), Synset('emirate.n.02'), Synset('fatherhood.n.03'), Synset('fatherhood.n.04'), Synset('foremanship.n.01'), Synset('generalship.n.02'), Synset('governorship.n.01'), Synset('headship.n.01'), Synset('headship.n.02'), Synset('hot_seat.n.02'), Synset('incumbency.n.03'), Synset('inspectorship.n.01'), Synset('instructorship.n.01'), Synset('internship.n.01'), Synset('judgeship.n.01'), Synset('khanate.n.02'), Synset('lectureship.n.01'), Synset('legation.n.01'), Synset('legislatorship.n.01'), Synset('librarianship.n.01'), Synset('lieutenancy.n.01'), Synset('magistracy.n.01'), Synset('managership.n.01'), Synset('manhood.n.03'), Synset('marshalship.n.01'), Synset('mastership.n.02'), Synset('mayoralty.n.01'), Synset('messiahship.n.01'), Synset('moderatorship.n.01'), Synset('overlordship.n.01'), Synset('pastorship.n.01'), Synset('peasanthood.n.01'), Synset('plum.n.03'), Synset('praetorship.n.01'), Synset('precentorship.n.01'), Synset('preceptorship.n.01'), Synset('prefecture.n.02'), Synset('prelacy.n.02'), Synset('premiership.n.01'), Synset('presidency.n.02'), Synset('primateship.n.01'), Synset('principalship.n.01'), Synset('priorship.n.01'), Synset('proconsulship.n.01'), Synset('proctorship.n.01'), Synset('professorship.n.01'), Synset('protectorship.n.01'), Synset('public_office.n.01'), Synset('rabbinate.n.02'), Synset('receivership.n.03'), Synset('rectorship.n.01'), Synset('regency.n.03'), Synset('residency.n.02'), Synset('rulership.n.01'), Synset('sainthood.n.02'), Synset('secretaryship.n.01'), Synset('seigniory.n.02'), Synset('senatorship.n.01'), Synset('sinecure.n.02'), Synset('solicitorship.n.01'), Synset('speakership.n.01'), Synset('stewardship.n.01'), Synset('studentship.n.01'), Synset('teachership.n.01'), Synset('thaneship.n.01'), Synset('throne.n.03'), Synset('treasurership.n.01'), Synset('tribuneship.n.01'), Synset('trusteeship.n.02'), Synset('vice-presidency.n.02'), Synset('viceroyship.n.01'), Synset('viziership.n.01'), Synset('wardenship.n.01'), Synset('wardership.n.01'), Synset('womanhood.n.03')]"
+hypernyms: "[Synset('occupation.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('occupation.n.01'), Synset('position.n.06')]]"
+instance_hypernyms: "[]"
+
+
+position.n.01
+alternative names (lemmas): "position", "place"
+definition: "the particular portion of space occupied by something"
+example usage: "he put the lamp back in its place"
+hyponyms: "[Synset('anomaly.n.03'), Synset('back.n.03'), Synset('front.n.09'), Synset('half-mast.n.01'), Synset('juxtaposition.n.02'), Synset('landmark.n.01'), Synset('lead.n.09'), Synset('left.n.01'), Synset('lie.n.03'), Synset('pitch.n.03'), Synset('pole_position.n.01'), Synset('polls.n.01'), Synset('post.n.01'), Synset('pride_of_place.n.01'), Synset('right.n.02'), Synset('setting.n.05'), Synset('site.n.02'), Synset('stand.n.02'), Synset('station.n.03'), Synset('vantage.n.01'), Synset('wing.n.07')]"
+hypernyms: "[Synset('point.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('point.n.02'), Synset('position.n.01')]]"
+instance_hypernyms: "[]"
+
+
+place.n.10
+alternative names (lemmas): "place", "station"
+definition: "proper or designated social situation"
+example usage: "he overstepped his place", "the responsibilities of a man in his station", "married above her station"
+hyponyms: "[Synset('niche.n.01')]"
+hypernyms: "[Synset('social_station.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('status.n.01'), Synset('social_station.n.01'), Synset('place.n.10')]]"
+instance_hypernyms: "[]"
+
+
+seat.n.01
+alternative names (lemmas): "seat", "place"
+definition: "a space reserved for sitting (as in a theater or on a train or airplane)"
+example usage: "he booked their seats in advance", "he sat in someone else's place"
+hyponyms: "[Synset('perch.n.04')]"
+hypernyms: "[Synset('space.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('area.n.01'), Synset('space.n.03'), Synset('seat.n.01')]]"
+instance_hypernyms: "[]"
+
+
+place.n.12
+alternative names (lemmas): "place"
+definition: "the passage that is being read"
+example usage: "he lost his place on the page"
+hyponyms: "[]"
+hypernyms: "[Synset('passage.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('auditory_communication.n.01'), Synset('music.n.01'), Synset('section.n.01'), Synset('passage.n.02'), Synset('place.n.12')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('written_communication.n.01'), Synset('writing.n.02'), Synset('section.n.01'), Synset('passage.n.02'), Synset('place.n.12')]]"
+instance_hypernyms: "[]"
+
+
+place.n.13
+alternative names (lemmas): "place"
+definition: "proper or appropriate position or location"
+example usage: "a woman's place is no longer in the kitchen"
+hyponyms: "[]"
+hypernyms: "[Synset('condition.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('place.n.13')]]"
+instance_hypernyms: "[]"
+
+
+plaza.n.01
+alternative names (lemmas): "plaza", "place", "piazza"
+definition: "a public square with room for pedestrians"
+example usage: "they met at Elm Plaza", "Grosvenor Place"
+hyponyms: "[]"
+hypernyms: "[Synset('public_square.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('geographical_area.n.01'), Synset('tract.n.01'), Synset('public_square.n.01'), Synset('plaza.n.01')]]"
+instance_hypernyms: "[]"
+
+
+place.n.15
+alternative names (lemmas): "place", "position"
+definition: "an item on a list or in a sequence"
+example usage: "in the second place", "moved from third to fifth position"
+hyponyms: "[Synset('postposition.n.01'), Synset('preposition.n.02')]"
+hypernyms: "[Synset('item.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('relation.n.01'), Synset('part.n.01'), Synset('item.n.01'), Synset('place.n.15')]]"
+instance_hypernyms: "[]"
+
+
+space.n.07
+alternative names (lemmas): "space", "blank_space", "place"
+definition: "a blank area"
+example usage: "write your name in the space provided"
+hyponyms: "[Synset('indentation.n.03'), Synset('margin.n.05')]"
+hypernyms: "[Synset('area.n.06')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('magnitude.n.01'), Synset('extent.n.02'), Synset('area.n.06'), Synset('space.n.07')]]"
+instance_hypernyms: "[]"
+
+
+put.v.01
+alternative names (lemmas): "put", "set", "place", "pose", "position", "lay"
+definition: "put into a certain place or abstract location"
+example usage: "Put your things here", "Set the tray down", "Set the dogs on the scent of the missing children", "Place emphasis on a certain point"
+hyponyms: "[Synset('appose.v.01'), Synset('arrange.v.01'), Synset('barrel.v.01'), Synset('bed.v.03'), Synset('bottle.v.02'), Synset('bucket.v.01'), Synset('butt.v.03'), Synset('clap.v.01'), Synset('cock.v.02'), Synset('coffin.v.01'), Synset('cram.v.02'), Synset('dispose.v.04'), Synset('docket.v.01'), Synset('emplace.v.01'), Synset('emplace.v.02'), Synset('ensconce.v.01'), Synset('glycerolize.v.01'), Synset('ground.v.03'), Synset('imbricate.v.01'), Synset('insert.v.02'), Synset('install.v.01'), Synset('intersperse.v.01'), Synset('jar.v.05'), Synset('juxtapose.v.01'), Synset('ladle.v.01'), Synset('lay.v.02'), Synset('lean.v.02'), Synset('load.v.04'), Synset('marshal.v.01'), Synset('middle.v.01'), Synset('misplace.v.01'), Synset('misplace.v.02'), Synset('nestle.v.03'), Synset('parallelize.v.01'), Synset('park.v.01'), Synset('perch.v.03'), Synset('pigeonhole.v.01'), Synset('pile.v.03'), Synset('pillow.v.01'), Synset('plant.v.01'), Synset('plant.v.05'), Synset('poise.v.03'), Synset('position.v.01'), Synset('postpose.v.01'), Synset('prepose.v.01'), Synset('rack_up.v.02'), Synset('recess.v.01'), Synset('recline.v.02'), Synset('replace.v.03'), Synset('repose.v.06'), Synset('reposition.v.02'), Synset('rest.v.08'), Synset('seat.v.01'), Synset('seat.v.06'), Synset('seat.v.07'), Synset('set.v.16'), Synset('set_down.v.03'), Synset('set_down.v.04'), Synset('settle.v.01'), Synset('shelve.v.02'), Synset('ship.v.05'), Synset('sign.v.06'), Synset('siphon.v.02'), Synset('situate.v.02'), Synset('sow.v.01'), Synset('space.v.01'), Synset('stand.v.10'), Synset('step.v.08'), Synset('stratify.v.04'), Synset('superimpose.v.01'), Synset('superpose.v.01'), Synset('tee.v.01'), Synset('throw.v.04'), Synset('throw.v.08'), Synset('trench.v.04'), Synset('underlay.v.02'), Synset('upend.v.02')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('put.v.01')]]"
+instance_hypernyms: "[]"
+
+
+place.v.02
+alternative names (lemmas): "place"
+definition: "place somebody in a particular situation or location"
+example usage: "he was placed on probation"
+hyponyms: "[]"
+hypernyms: "[Synset('delegate.v.02')]"
+hypernym_paths: "[[Synset('appoint.v.02'), Synset('delegate.v.02'), Synset('place.v.02')]]"
+instance_hypernyms: "[]"
+
+
+rate.v.01
+alternative names (lemmas): "rate", "rank", "range", "order", "grade", "place"
+definition: "assign a rank or rating to"
+example usage: "how would you rank these students?", "The restaurant is rated highly in the food guide"
+hyponyms: "[Synset('downgrade.v.01'), Synset('prioritize.v.01'), Synset('reorder.v.01'), Synset('seed.v.05'), Synset('sequence.v.01'), Synset('shortlist.v.01'), Synset('subordinate.v.01'), Synset('superordinate.v.01'), Synset('upgrade.v.01')]"
+hypernyms: "[Synset('evaluate.v.02')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('rate.v.01')]]"
+instance_hypernyms: "[]"
+
+
+locate.v.03
+alternative names (lemmas): "locate", "place", "site"
+definition: "assign a location to"
+example usage: "The company located some of their agents in Los Angeles"
+hyponyms: "[]"
+hypernyms: "[Synset('station.v.01')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('station.v.01'), Synset('locate.v.03')]]"
+instance_hypernyms: "[]"
+
+
+place.v.05
+alternative names (lemmas): "place"
+definition: "to arrange for"
+example usage: "place a phone call", "place a bet"
+hyponyms: "[]"
+hypernyms: "[Synset('order.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transfer.v.02'), Synset('convey.v.03'), Synset('communicate.v.01'), Synset('request.v.01'), Synset('order.v.02'), Synset('place.v.05')]]"
+instance_hypernyms: "[]"
+
+
+place.v.06
+alternative names (lemmas): "place", "come_in", "come_out"
+definition: "take a place in a competition; often followed by an ordinal"
+example usage: "Jerry came in third in the Marathon"
+hyponyms: "[]"
+hypernyms: "[Synset('rank.v.01')]"
+hypernym_paths: "[[Synset('be.v.01'), Synset('rank.v.01'), Synset('place.v.06')]]"
+instance_hypernyms: "[]"
+
+
+target.v.01
+alternative names (lemmas): "target", "aim", "place", "direct", "point"
+definition: "intend (something) to move towards a certain goal"
+example usage: "He aimed his fists towards his opponent's face", "criticism directed at her superior", "direct your anger towards others, not towards yourself"
+hyponyms: "[Synset('address.v.04'), Synset('range_in.v.01')]"
+hypernyms: "[Synset('aim.v.01')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('put.v.01'), Synset('position.v.01'), Synset('aim.v.01'), Synset('target.v.01')]]"
+instance_hypernyms: "[]"
+
+
+identify.v.01
+alternative names (lemmas): "identify", "place"
+definition: "recognize as being; establish the identity of someone or something"
+example usage: "She identified the man on the 'wanted' poster"
+hyponyms: "[Synset('distinguish.v.01')]"
+hypernyms: "[Synset('determine.v.03')]"
+hypernym_paths: "[[Synset('determine.v.03'), Synset('identify.v.01')]]"
+instance_hypernyms: "[]"
+
+
+place.v.09
+alternative names (lemmas): "place"
+definition: "assign to (a job or a home)"
+hyponyms: "[]"
+hypernyms: "[Synset('delegate.v.02')]"
+hypernym_paths: "[[Synset('appoint.v.02'), Synset('delegate.v.02'), Synset('place.v.09')]]"
+instance_hypernyms: "[]"
+
+
+set.v.09
+alternative names (lemmas): "set", "localize", "localise", "place"
+definition: "locate"
+example usage: "The film is set in Africa"
+hyponyms: "[]"
+hypernyms: "[Synset('stage.v.01')]"
+hypernym_paths: "[[Synset('make.v.03'), Synset('re-create.v.01'), Synset('stage.v.01'), Synset('set.v.09')]]"
+instance_hypernyms: "[]"
+
+
+place.v.11
+alternative names (lemmas): "place", "put", "set"
+definition: "estimate"
+example usage: "We put the time of arrival at 8 P.M."
+hyponyms: "[]"
+hypernyms: "[Synset('estimate.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('reason.v.03'), Synset('calculate.v.01'), Synset('estimate.v.01'), Synset('place.v.11')]]"
+instance_hypernyms: "[]"
+
+
+place.v.12
+alternative names (lemmas): "place", "localize", "localise"
+definition: "identify the location or place of"
+example usage: "We localized the source of the infection"
+hyponyms: "[]"
+hypernyms: "[Synset('situate.v.01')]"
+hypernym_paths: "[[Synset('determine.v.01'), Synset('situate.v.01'), Synset('place.v.12')]]"
+instance_hypernyms: "[]"
+
+
+invest.v.01
+alternative names (lemmas): "invest", "put", "commit", "place"
+definition: "make an investment"
+example usage: "Put money into bonds"
+hyponyms: "[Synset('buy_into.v.01'), Synset('fund.v.04'), Synset('roll_over.v.03'), Synset('shelter.v.02'), Synset('speculate.v.04'), Synset('tie_up.v.02')]"
+hypernyms: "[Synset('spend.v.02')]"
+hypernym_paths: "[[Synset('transfer.v.05'), Synset('give.v.03'), Synset('pay.v.01'), Synset('spend.v.02'), Synset('invest.v.01')]]"
+instance_hypernyms: "[]"
+
+
+station.v.01
+alternative names (lemmas): "station", "post", "send", "place"
+definition: "assign to a station"
+hyponyms: "[Synset('fort.v.03'), Synset('garrison.v.01'), Synset('locate.v.03')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('station.v.01')]]"
+instance_hypernyms: "[]"
+
+
+place.v.15
+alternative names (lemmas): "place"
+definition: "finish second or better in a horse or dog race"
+example usage: "he bet $2 on number six to place"
+hyponyms: "[]"
+hypernyms: "[Synset('race.v.02')]"
+hypernym_paths: "[[Synset('compete.v.01'), Synset('race.v.02'), Synset('place.v.15')]]"
+instance_hypernyms: "[]"
+
+
+place.v.16
+alternative names (lemmas): "place"
+definition: "sing a note with the correct pitch"
+hyponyms: "[]"
+hypernyms: "[Synset('sing.v.02')]"
+hypernym_paths: "[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('talk.v.02'), Synset('sing.v.02'), Synset('place.v.16')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+measure.n.02
+alternative names (lemmas): "measure", "quantity", "amount"
+definition: "how much there is or how many there are of something that you can quantify"
+hyponyms: "[Synset('cordage.n.01'), Synset('definite_quantity.n.01'), Synset('fundamental_quantity.n.01'), Synset('indefinite_quantity.n.01'), Synset('magnetization.n.01'), Synset('octane_number.n.01'), Synset('playing_period.n.01'), Synset('point.n.06'), Synset('probability.n.01'), Synset('proof.n.03'), Synset('quantum.n.02'), Synset('radical.n.04'), Synset('relative_quantity.n.01'), Synset('system_of_measurement.n.01'), Synset('time_interval.n.01'), Synset('time_unit.n.01'), Synset('value.n.03'), Synset('volume.n.01'), Synset('volume.n.05')]"
+hypernyms: "[Synset('abstraction.n.06')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02')]]"
+instance_hypernyms: "[]"
+
+
+quantity.n.02
+alternative names (lemmas): "quantity"
+definition: "an adequate or large amount"
+example usage: "he had a quantity of ammunition"
+hyponyms: "[Synset('abundance.n.01')]"
+hypernyms: "[Synset('amount.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('magnitude.n.01'), Synset('amount.n.02'), Synset('quantity.n.02')]]"
+instance_hypernyms: "[]"
+
+
+quantity.n.03
+alternative names (lemmas): "quantity"
+definition: "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable"
+hyponyms: "[Synset('binomial.n.01'), Synset('constant.n.01'), Synset('numerical_quantity.n.01'), Synset('operand.n.01'), Synset('parameter.n.04'), Synset('product.n.03'), Synset('proportional.n.01'), Synset('quantum.n.01'), Synset('sum.n.02'), Synset('term.n.04'), Synset('variable.n.02')]"
+hypernyms: "[Synset('concept.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('content.n.05'), Synset('idea.n.01'), Synset('concept.n.01'), Synset('quantity.n.03')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+time.n.01
+alternative names (lemmas): "time", "clip"
+definition: "an instance or single occasion for some event"
+example usage: "this time he succeeded", "he called four times", "he could do ten at a clip"
+hyponyms: "[]"
+hypernyms: "[Synset('case.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('happening.n.01'), Synset('case.n.01'), Synset('time.n.01')]]"
+instance_hypernyms: "[]"
+
+
+time.n.02
+alternative names (lemmas): "time"
+definition: "a period of time considered as a resource under your control and sufficient to accomplish something"
+example usage: "take time to smell the roses", "I didn't have time to finish", "it took more than half my time"
+hyponyms: "[]"
+hypernyms: "[Synset('time_period.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('fundamental_quantity.n.01'), Synset('time_period.n.01'), Synset('time.n.02')]]"
+instance_hypernyms: "[]"
+
+
+time.n.03
+alternative names (lemmas): "time"
+definition: "an indefinite period (usually marked by specific attributes or activities)"
+example usage: "he waited a long time", "the time of year for planting", "he was a great actor in his time"
+hyponyms: "[Synset('day.n.02'), Synset('dead.n.02'), Synset('ephemera.n.01'), Synset('hard_times.n.01'), Synset('incarnation.n.03'), Synset('moment.n.02'), Synset('space_age.n.01'), Synset('wee.n.01'), Synset('while.n.01')]"
+hypernyms: "[Synset('time_period.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('fundamental_quantity.n.01'), Synset('time_period.n.01'), Synset('time.n.03')]]"
+instance_hypernyms: "[]"
+
+
+time.n.04
+alternative names (lemmas): "time"
+definition: "a suitable moment"
+example usage: "it is time to go"
+hyponyms: "[Synset('high_time.n.01'), Synset('occasion.n.04')]"
+hypernyms: "[Synset('moment.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('point.n.06'), Synset('moment.n.01'), Synset('time.n.04')]]"
+instance_hypernyms: "[]"
+
+
+time.n.05
+alternative names (lemmas): "time"
+definition: "the continuum of experience in which events pass from the future through the present to the past"
+hyponyms: "[Synset('biological_time.n.01'), Synset('civil_time.n.01'), Synset('continuum.n.01'), Synset('cosmic_time.n.01'), Synset('daylight-saving_time.n.01'), Synset('duration.n.02'), Synset('eternity.n.01'), Synset('future.n.01'), Synset('geological_time.n.01'), Synset('greenwich_mean_time.n.01'), Synset('musical_time.n.01'), Synset('past.n.01'), Synset('present.n.01')]"
+hypernyms: "[Synset('attribute.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('time.n.05')]]"
+instance_hypernyms: "[]"
+
+
+time.n.06
+alternative names (lemmas): "time"
+definition: "a person's experience on a particular occasion"
+example usage: "he had a time holding back the tears", "they had a good time together"
+hyponyms: "[]"
+hypernyms: "[Synset('experience.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('happening.n.01'), Synset('experience.n.03'), Synset('time.n.06')]]"
+instance_hypernyms: "[]"
+
+
+clock_time.n.01
+alternative names (lemmas): "clock_time", "time"
+definition: "a reading of a point in time as given by a clock"
+example usage: "do you know what time it is?", "the time is 10 o'clock"
+hyponyms: "[Synset('hour.n.02'), Synset('prime_time.n.01'), Synset('spacecraft_clock_time.n.01')]"
+hypernyms: "[Synset('reading.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('cognition.n.01'), Synset('information.n.02'), Synset('datum.n.01'), Synset('reading.n.03'), Synset('clock_time.n.01')]]"
+instance_hypernyms: "[]"
+
+
+fourth_dimension.n.01
+alternative names (lemmas): "fourth_dimension", "time"
+definition: "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event"
+hyponyms: "[]"
+hypernyms: "[Synset('dimension.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('magnitude.n.01'), Synset('dimension.n.01'), Synset('fourth_dimension.n.01')]]"
+instance_hypernyms: "[]"
+
+
+meter.n.04
+alternative names (lemmas): "meter", "metre", "time"
+definition: "rhythm as given by division into parts of equal duration"
+hyponyms: "[]"
+hypernyms: "[Synset('rhythmicity.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('sound_property.n.01'), Synset('rhythmicity.n.01'), Synset('meter.n.04')]]"
+instance_hypernyms: "[]"
+
+
+prison_term.n.01
+alternative names (lemmas): "prison_term", "sentence", "time"
+definition: "the period of time a prisoner is imprisoned"
+example usage: "he served a prison term of 15 months", "his sentence was 5 to 10 years", "he is doing time in the county jail"
+hyponyms: "[Synset('hard_time.n.02'), Synset('life_sentence.n.01')]"
+hypernyms: "[Synset('term.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('fundamental_quantity.n.01'), Synset('time_period.n.01'), Synset('term.n.02'), Synset('prison_term.n.01')]]"
+instance_hypernyms: "[]"
+
+
+clock.v.01
+alternative names (lemmas): "clock", "time"
+definition: "measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+example usage: "he clocked the runners"
+hyponyms: "[Synset('mistime.v.01')]"
+hypernyms: "[Synset('quantify.v.02')]"
+hypernym_paths: "[[Synset('act.v.01'), Synset('interact.v.01'), Synset('communicate.v.02'), Synset('carry.v.04'), Synset('quantify.v.02'), Synset('clock.v.01')]]"
+instance_hypernyms: "[]"
+
+
+time.v.02
+alternative names (lemmas): "time"
+definition: "assign a time for an activity or event"
+example usage: "The candidate carefully timed his appearance at the disaster scene"
+hyponyms: "[]"
+hypernyms: "[Synset('schedule.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('plan.v.02'), Synset('schedule.v.01'), Synset('time.v.02')]]"
+instance_hypernyms: "[]"
+
+
+time.v.03
+alternative names (lemmas): "time"
+definition: "set the speed, duration, or execution of"
+example usage: "we time the process to manufacture our cars very precisely"
+hyponyms: "[]"
+hypernyms: "[Synset('determine.v.02')]"
+hypernym_paths: "[[Synset('make.v.03'), Synset('cause.v.01'), Synset('determine.v.02'), Synset('time.v.03')]]"
+instance_hypernyms: "[]"
+
+
+time.v.04
+alternative names (lemmas): "time"
+definition: "regulate or set the time of"
+example usage: "time the clock"
+hyponyms: "[]"
+hypernyms: "[Synset('adjust.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('adjust.v.01'), Synset('time.v.04')]]"
+instance_hypernyms: "[]"
+
+
+time.v.05
+alternative names (lemmas): "time"
+definition: "adjust so that a force is applied and an action occurs at the desired time"
+example usage: "The good player times his swing so as to hit the ball squarely"
+hyponyms: "[]"
+hypernyms: "[Synset('adjust.v.01')]"
+hypernym_paths: "[[Synset('change.v.01'), Synset('adjust.v.01'), Synset('time.v.05')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+sequence.n.01
+alternative names (lemmas): "sequence"
+definition: "serial arrangement in which things follow in logical order or a recurrent pattern"
+example usage: "the sequence of names was alphabetical", "he invented a technique to determine the sequence of base pairs in DNA"
+hyponyms: "[Synset('codon.n.01'), Synset('combination.n.02'), Synset('combination.n.03'), Synset('fibonacci_sequence.n.01'), Synset('gene.n.01'), Synset('string.n.05')]"
+hypernyms: "[Synset('series.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('arrangement.n.02'), Synset('ordering.n.01'), Synset('series.n.01'), Synset('sequence.n.01')]]"
+instance_hypernyms: "[]"
+
+
+sequence.n.02
+alternative names (lemmas): "sequence", "chronological_sequence", "succession", "successiveness", "chronological_succession"
+definition: "a following of one thing after another in time"
+example usage: "the doctor saw a sequence of patients"
+hyponyms: "[Synset('rain.n.03'), Synset('rotation.n.04'), Synset('row.n.06'), Synset('run.n.15')]"
+hypernyms: "[Synset('temporal_arrangement.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('temporal_property.n.01'), Synset('temporal_arrangement.n.01'), Synset('sequence.n.02')]]"
+instance_hypernyms: "[]"
+
+
+sequence.n.03
+alternative names (lemmas): "sequence", "episode"
+definition: "film consisting of a succession of related shots that develop a given subject in a movie"
+hyponyms: "[]"
+hypernyms: "[Synset('film.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('equipment.n.01'), Synset('photographic_equipment.n.01'), Synset('photographic_paper.n.01'), Synset('film.n.03'), Synset('sequence.n.03')]]"
+instance_hypernyms: "[]"
+
+
+succession.n.03
+alternative names (lemmas): "succession", "sequence"
+definition: "the action of following in order"
+example usage: "he played the trumps in sequence"
+hyponyms: "[Synset('alternation.n.01'), Synset('opening.n.12')]"
+hypernyms: "[Synset('order.n.15')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('organization.n.06'), Synset('order.n.15'), Synset('succession.n.03')]]"
+instance_hypernyms: "[]"
+
+
+sequence.n.05
+alternative names (lemmas): "sequence"
+definition: "several repetitions of a melodic phrase in different keys"
+hyponyms: "[]"
+hypernyms: "[Synset('repeat.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('happening.n.01'), Synset('periodic_event.n.01'), Synset('repeat.n.01'), Synset('sequence.n.05')]]"
+instance_hypernyms: "[]"
+
+
+sequence.v.01
+alternative names (lemmas): "sequence"
+definition: "arrange in a sequence"
+hyponyms: "[]"
+hypernyms: "[Synset('rate.v.01')]"
+hypernym_paths: "[[Synset('think.v.03'), Synset('evaluate.v.02'), Synset('rate.v.01'), Synset('sequence.v.01')]]"
+instance_hypernyms: "[]"
+
+
+sequence.v.02
+alternative names (lemmas): "sequence"
+definition: "determine the order of constituents in"
+example usage: "They sequenced the human genome"
+hyponyms: "[]"
+hypernyms: "[Synset('determine.v.01')]"
+hypernym_paths: "[[Synset('determine.v.01'), Synset('sequence.v.02')]]"
+instance_hypernyms: "[]"
+
+
+==================================
+conveyance.n.03
+alternative names (lemmas): "conveyance", "transport"
+definition: "something that serves as a means of transportation"
+hyponyms: "[Synset('dolly.n.01'), Synset('dolly.n.02'), Synset('horsebox.n.01'), Synset('litter.n.03'), Synset('mail.n.03'), Synset('public_transport.n.01'), Synset('roll-on_roll-off.n.01'), Synset('shipping.n.02'), Synset('sidecar.n.02'), Synset('ski_tow.n.01'), Synset('telpher.n.01'), Synset('trailer.n.03'), Synset('tramway.n.01'), Synset('vehicle.n.01')]"
+hypernyms: "[Synset('instrumentality.n.03')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('conveyance.n.03')]]"
+instance_hypernyms: "[]"
+
+
+transport.n.02
+alternative names (lemmas): "transport"
+definition: "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes"
+hyponyms: "[Synset('active_transport.n.01'), Synset('passive_transport.n.01')]"
+hypernyms: "[Synset('diffusion.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('natural_process.n.01'), Synset('diffusion.n.01'), Synset('transport.n.02')]]"
+instance_hypernyms: "[]"
+
+
+transportation.n.05
+alternative names (lemmas): "transportation", "shipping", "transport"
+definition: "the commercial enterprise of moving goods and materials"
+hyponyms: "[Synset('air_transportation.n.01'), Synset('express.n.03'), Synset('ferry.n.02'), Synset('freight.n.02'), Synset('hauling.n.01'), Synset('navigation.n.02')]"
+hypernyms: "[Synset('commercial_enterprise.n.02')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('group_action.n.01'), Synset('transaction.n.01'), Synset('commerce.n.01'), Synset('commercial_enterprise.n.02'), Synset('transportation.n.05')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('group_action.n.01'), Synset('transaction.n.01'), Synset('commerce.n.01'), Synset('commercial_enterprise.n.02'), Synset('transportation.n.05')]]"
+instance_hypernyms: "[]"
+
+
+ecstasy.n.01
+alternative names (lemmas): "ecstasy", "rapture", "transport", "exaltation", "raptus"
+definition: "a state of being carried away by overwhelming emotion"
+example usage: "listening to sweet music in a perfect rapture"- Charles Dickens"
+hyponyms: "[]"
+hypernyms: "[Synset('emotional_state.n.01')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('feeling.n.01'), Synset('emotion.n.01'), Synset('emotional_state.n.01'), Synset('ecstasy.n.01')]]"
+instance_hypernyms: "[]"
+
+
+tape_drive.n.01
+alternative names (lemmas): "tape_drive", "tape_transport", "transport"
+definition: "a mechanism that transports magnetic tape across the read/write heads of a tape playback/recorder"
+hyponyms: "[]"
+hypernyms: "[Synset('mechanism.n.05')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('device.n.01'), Synset('mechanism.n.05'), Synset('tape_drive.n.01')]]"
+instance_hypernyms: "[]"
+
+
+transportation.n.02
+alternative names (lemmas): "transportation", "transport", "transfer", "transferral", "conveyance"
+definition: "the act of moving something from one location to another"
+hyponyms: "[Synset('airlift.n.01'), Synset('carry.n.01'), Synset('connection.n.08'), Synset('delivery.n.01'), Synset('drive.n.07'), Synset('lighterage.n.02'), Synset('resettlement.n.01'), Synset('teleportation.n.01'), Synset('transshipment.n.01')]"
+hypernyms: "[Synset('movement.n.11')]"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('action.n.01'), Synset('change.n.03'), Synset('movement.n.11'), Synset('transportation.n.02')]]"
+instance_hypernyms: "[]"
+
+
+transport.v.01
+alternative names (lemmas): "transport"
+definition: "move something or somebody around; usually over long distances"
+hyponyms: "[Synset('advect.v.01'), Synset('bus.v.01'), Synset('carry_over.v.02'), Synset('ferry.v.02'), Synset('float.v.03'), Synset('freight.v.01'), Synset('lighter.v.01'), Synset('pick_up.v.03'), Synset('pipe.v.02'), Synset('raft.v.01'), Synset('rail.v.05'), Synset('sledge.v.01'), Synset('sluice.v.03'), Synset('teleport.v.01'), Synset('truck.v.01'), Synset('wheel.v.02'), Synset('wheelbarrow.v.01')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transport.v.01')]]"
+instance_hypernyms: "[]"
+
+
+transport.v.02
+alternative names (lemmas): "transport", "carry"
+definition: "move while supporting, either in a vehicle or in one's hands or on one's body"
+example usage: "You must carry your camping gear", "carry the suitcases to the car", "This train is carrying nuclear waste", "These pipes carry waste water into the river"
+hyponyms: "[Synset('bear.v.04'), Synset('bring.v.01'), Synset('bucket.v.02'), Synset('cart.v.02'), Synset('chariot.v.01'), Synset('fly.v.04'), Synset('haul.v.02'), Synset('lug.v.01'), Synset('pack.v.04'), Synset('pipe_in.v.01'), Synset('port.v.05'), Synset('port.v.06'), Synset('porter.v.01'), Synset('return.v.07'), Synset('shoulder.v.03')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transport.v.02')]]"
+instance_hypernyms: "[]"
+
+
+enchant.v.01
+alternative names (lemmas): "enchant", "enrapture", "transport", "enthrall", "ravish", "enthral", "delight"
+definition: "hold spellbound"
+hyponyms: "[]"
+hypernyms: "[Synset('please.v.01')]"
+hypernym_paths: "[[Synset('satisfy.v.02'), Synset('please.v.01'), Synset('enchant.v.01')]]"
+instance_hypernyms: "[]"
+
+
+transport.v.04
+alternative names (lemmas): "transport", "send", "ship"
+definition: "transport commercially"
+hyponyms: "[Synset('barge.v.02'), Synset('dispatch.v.01'), Synset('forward.v.01'), Synset('railroad.v.03')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transport.v.04')]]"
+instance_hypernyms: "[]"
+
+
+transmit.v.04
+alternative names (lemmas): "transmit", "transfer", "transport", "channel", "channelize", "channelise"
+definition: "send from one person or place to another"
+example usage: "transmit a message"
+hyponyms: "[Synset('bring.v.04'), Synset('project.v.03'), Synset('propagate.v.03'), Synset('send.v.02'), Synset('translate.v.04'), Synset('turn.v.08')]"
+hypernyms: "[Synset('move.v.02')]"
+hypernym_paths: "[[Synset('move.v.02'), Synset('transmit.v.04')]]"
+instance_hypernyms: "[]"
+
+
