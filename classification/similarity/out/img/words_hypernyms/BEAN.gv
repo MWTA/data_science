@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	bean -> legume
+	legume -> vegetable
+	vegetable -> produce
+	produce -> food
+	food -> solid
+	solid -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+}

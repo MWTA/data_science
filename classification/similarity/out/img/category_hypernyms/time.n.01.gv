@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"time.n.01" -> "case.n.01"
+	"case.n.01" -> "happening.n.01"
+	"happening.n.01" -> "event.n.01"
+	"event.n.01" -> "psychological_feature.n.01"
+	"psychological_feature.n.01" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+}

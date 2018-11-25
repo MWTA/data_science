@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	thank -> convey
+	convey -> impart
+	impart -> tell
+	tell -> inform
+	inform -> communicate
+	communicate -> interact
+	interact -> act
+}

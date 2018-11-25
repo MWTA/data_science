@@ -1,0 +1,6 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	run -> travel_rapidly
+	travel_rapidly -> travel
+}

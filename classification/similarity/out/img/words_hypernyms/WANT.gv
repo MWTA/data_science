@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	privation -> poverty
+	poverty -> financial_condition
+	financial_condition -> condition
+	condition -> state
+	state -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	why -> reason
+	reason -> rational_motive
+	rational_motive -> motivation
+	motivation -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

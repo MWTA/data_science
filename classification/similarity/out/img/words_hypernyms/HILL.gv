@@ -1,0 +1,9 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	hill -> natural_elevation
+	natural_elevation -> geological_formation
+	geological_formation -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

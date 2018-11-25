@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	meter -> metric_linear_unit
+	metric_linear_unit -> linear_unit
+	linear_unit -> unit_of_measurement
+	unit_of_measurement -> definite_quantity
+	definite_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+	metric_linear_unit -> metric_unit
+	metric_unit -> unit_of_measurement
+}

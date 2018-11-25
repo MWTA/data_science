@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	homework -> school_assignment
+	school_assignment -> assignment
+	assignment -> undertaking
+	undertaking -> work
+	work -> activity
+	activity -> act
+	act -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

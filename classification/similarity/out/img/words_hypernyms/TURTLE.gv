@@ -1,0 +1,19 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	turtleneck -> jersey
+	jersey -> shirt
+	shirt -> garment
+	garment -> clothing
+	clothing -> consumer_goods
+	consumer_goods -> commodity
+	commodity -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	clothing -> covering
+	covering -> artifact
+	turtleneck -> sweater
+	sweater -> garment
+}

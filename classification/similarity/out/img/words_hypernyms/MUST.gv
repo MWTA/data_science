@@ -1,0 +1,8 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	must -> necessity
+	necessity -> thing
+	thing -> physical_entity
+	physical_entity -> entity
+}

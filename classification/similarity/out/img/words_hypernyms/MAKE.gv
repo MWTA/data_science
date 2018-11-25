@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	brand -> kind
+	kind -> category
+	category -> concept
+	concept -> idea
+	idea -> content
+	content -> cognition
+	cognition -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

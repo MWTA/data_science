@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	tickle -> cutaneous_sensation
+	cutaneous_sensation -> touch
+	touch -> perception
+	perception -> basic_cognitive_process
+	basic_cognitive_process -> process
+	process -> cognition
+	cognition -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

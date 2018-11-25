@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"florist's_chrysanthemum" -> chrysanthemum
+	chrysanthemum -> flower
+	flower -> angiosperm
+	angiosperm -> spermatophyte
+	spermatophyte -> vascular_plant
+	vascular_plant -> plant
+	plant -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

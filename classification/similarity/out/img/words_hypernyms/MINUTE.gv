@@ -1,0 +1,8 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	minute -> time_unit
+	time_unit -> measure
+	measure -> abstraction
+	abstraction -> entity
+}

@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	egg -> ovum
+	ovum -> gamete
+	gamete -> reproductive_cell
+	reproductive_cell -> cell
+	cell -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

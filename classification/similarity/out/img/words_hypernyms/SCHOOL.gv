@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	school -> educational_institution
+	educational_institution -> institution
+	institution -> organization
+	organization -> social_group
+	social_group -> group
+	group -> abstraction
+	abstraction -> entity
+}

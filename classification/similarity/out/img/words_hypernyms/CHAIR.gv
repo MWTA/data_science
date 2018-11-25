@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	chair -> seat
+	seat -> furniture
+	furniture -> furnishing
+	furnishing -> instrumentality
+	instrumentality -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

@@ -1,0 +1,20 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	paint -> coating
+	coating -> covering
+	covering -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	paint -> coloring_material
+	coloring_material -> material
+	material -> substance
+	substance -> matter
+	matter -> physical_entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

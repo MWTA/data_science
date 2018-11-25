@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	family -> unit
+	unit -> organization
+	organization -> social_group
+	social_group -> group
+	group -> abstraction
+	abstraction -> entity
+}

@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	good -> advantage
+	advantage -> asset
+	asset -> quality
+	quality -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

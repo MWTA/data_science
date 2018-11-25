@@ -1,0 +1,19 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	cool -> coldness
+	coldness -> temperature
+	temperature -> fundamental_quantity
+	fundamental_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+	temperature -> physical_property
+	physical_property -> property
+	property -> attribute
+	attribute -> abstraction
+	coldness -> vasoconstrictor
+	vasoconstrictor -> agent
+	agent -> causal_agent
+	causal_agent -> physical_entity
+	physical_entity -> entity
+}

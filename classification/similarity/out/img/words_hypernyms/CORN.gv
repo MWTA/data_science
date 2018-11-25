@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	corn -> cereal
+	cereal -> grass
+	grass -> gramineous_plant
+	gramineous_plant -> herb
+	herb -> vascular_plant
+	vascular_plant -> plant
+	plant -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

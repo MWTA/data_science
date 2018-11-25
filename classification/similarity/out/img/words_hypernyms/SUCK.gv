@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	sucking -> consumption
+	consumption -> bodily_process
+	bodily_process -> organic_process
+	organic_process -> process
+	process -> physical_entity
+	physical_entity -> entity
+}

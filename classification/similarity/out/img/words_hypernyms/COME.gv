@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	semen -> liquid_body_substance
+	liquid_body_substance -> body_substance
+	body_substance -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

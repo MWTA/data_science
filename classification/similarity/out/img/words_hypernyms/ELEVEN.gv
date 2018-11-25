@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	eleven -> large_integer
+	large_integer -> integer
+	integer -> number
+	number -> definite_quantity
+	definite_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+}

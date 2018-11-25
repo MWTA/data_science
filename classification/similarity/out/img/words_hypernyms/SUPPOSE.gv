@@ -1,0 +1,7 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	suppose -> speculate
+	speculate -> reason
+	reason -> think
+}

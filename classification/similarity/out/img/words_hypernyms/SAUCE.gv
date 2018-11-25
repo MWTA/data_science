@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	sauce -> condiment
+	condiment -> flavorer
+	flavorer -> ingredient
+	ingredient -> foodstuff
+	foodstuff -> food
+	food -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+}

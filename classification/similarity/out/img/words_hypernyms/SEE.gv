@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	see -> seat
+	seat -> center
+	center -> area
+	area -> region
+	region -> location
+	location -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

@@ -1,0 +1,18 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	bunny -> waitress
+	waitress -> waiter
+	waiter -> "dining-room_attendant"
+	"dining-room_attendant" -> employee
+	employee -> worker
+	worker -> person
+	person -> causal_agent
+	causal_agent -> physical_entity
+	physical_entity -> entity
+	person -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+}

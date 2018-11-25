@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	sock -> hosiery
+	hosiery -> footwear
+	footwear -> clothing
+	clothing -> consumer_goods
+	consumer_goods -> commodity
+	commodity -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	clothing -> covering
+	covering -> artifact
+}

@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	door -> movable_barrier
+	movable_barrier -> barrier
+	barrier -> obstruction
+	obstruction -> structure
+	structure -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

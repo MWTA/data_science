@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	bash -> party
+	party -> affair
+	affair -> social_event
+	social_event -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

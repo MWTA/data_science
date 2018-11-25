@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	light -> actinic_radiation
+	actinic_radiation -> electromagnetic_radiation
+	electromagnetic_radiation -> radiation
+	radiation -> energy
+	energy -> physical_phenomenon
+	physical_phenomenon -> natural_phenomenon
+	natural_phenomenon -> phenomenon
+	phenomenon -> process
+	process -> physical_entity
+	physical_entity -> entity
+}

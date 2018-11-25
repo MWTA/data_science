@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	brown -> chromatic_color
+	chromatic_color -> color
+	color -> visual_property
+	visual_property -> property
+	property -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

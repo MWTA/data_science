@@ -1,0 +1,17 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	rabbit -> leporid
+	leporid -> lagomorph
+	lagomorph -> placental
+	placental -> mammal
+	mammal -> vertebrate
+	vertebrate -> chordate
+	chordate -> animal
+	animal -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

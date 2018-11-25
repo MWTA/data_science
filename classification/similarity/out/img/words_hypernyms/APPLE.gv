@@ -1,0 +1,21 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	apple -> edible_fruit
+	edible_fruit -> fruit
+	fruit -> reproductive_structure
+	reproductive_structure -> plant_organ
+	plant_organ -> plant_part
+	plant_part -> natural_object
+	natural_object -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	edible_fruit -> produce
+	produce -> food
+	food -> solid
+	solid -> matter
+	matter -> physical_entity
+	apple -> pome
+	pome -> fruit
+}

@@ -1,8 +1,0 @@
-TIME, time
-MINUTE, quantity
-SECOND, quantity
-MORNING, quantity
-NIGHT, quantity
-TODAY, nature
-YEAR, quantity
-YESTERDAY, quantity

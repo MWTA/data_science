@@ -1,0 +1,19 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	scissors -> compound_lever
+	compound_lever -> lever
+	lever -> bar
+	bar -> implement
+	implement -> instrumentality
+	instrumentality -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	scissors -> edge_tool
+	edge_tool -> cutter
+	cutter -> cutting_implement
+	cutting_implement -> tool
+	tool -> implement
+}

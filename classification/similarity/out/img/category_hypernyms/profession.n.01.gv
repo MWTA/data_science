@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"profession.n.01" -> "occupational_group.n.01"
+	"occupational_group.n.01" -> "body.n.02"
+	"body.n.02" -> "social_group.n.01"
+	"social_group.n.01" -> "group.n.01"
+	"group.n.01" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+}

@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	sing -> interpret
+	interpret -> perform
+	sing -> sing
+	sing -> talk
+	talk -> communicate
+	communicate -> interact
+	interact -> act
+}

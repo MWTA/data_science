@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	support -> resource
+	resource -> assets
+	assets -> possession
+	possession -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

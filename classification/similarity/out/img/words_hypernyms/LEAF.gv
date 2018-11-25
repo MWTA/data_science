@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	leaf -> plant_organ
+	plant_organ -> plant_part
+	plant_part -> natural_object
+	natural_object -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

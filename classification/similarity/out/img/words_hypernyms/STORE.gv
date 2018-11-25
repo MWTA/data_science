@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	shop -> mercantile_establishment
+	mercantile_establishment -> place_of_business
+	place_of_business -> establishment
+	establishment -> structure
+	structure -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

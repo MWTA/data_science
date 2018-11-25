@@ -1,0 +1,9 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	old -> past
+	past -> time
+	time -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

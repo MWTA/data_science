@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	clock -> timepiece
+	timepiece -> measuring_instrument
+	measuring_instrument -> instrument
+	instrument -> device
+	device -> instrumentality
+	instrumentality -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

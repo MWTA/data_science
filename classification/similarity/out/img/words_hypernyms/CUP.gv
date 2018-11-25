@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	cup -> container
+	container -> instrumentality
+	instrumentality -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	cup -> crockery
+	crockery -> tableware
+	tableware -> ware
+	ware -> article
+	article -> artifact
+}

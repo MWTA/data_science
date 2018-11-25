@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	hello -> greeting
+	greeting -> acknowledgment
+	acknowledgment -> message
+	message -> communication
+	communication -> abstraction
+	abstraction -> entity
+}

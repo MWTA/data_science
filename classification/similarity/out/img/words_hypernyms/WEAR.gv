@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	wear -> deterioration
+	deterioration -> decay
+	decay -> unsoundness
+	unsoundness -> condition
+	condition -> state
+	state -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

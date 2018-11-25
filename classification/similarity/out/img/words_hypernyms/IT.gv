@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	information_technology -> engineering
+	engineering -> discipline
+	discipline -> knowledge_domain
+	knowledge_domain -> content
+	content -> cognition
+	cognition -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

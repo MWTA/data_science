@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	bargain -> purchase
+	purchase -> acquisition
+	acquisition -> transferred_property
+	transferred_property -> possession
+	possession -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

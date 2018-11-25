@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	think -> deliberation
+	deliberation -> consideration
+	consideration -> thinking
+	thinking -> higher_cognitive_process
+	higher_cognitive_process -> process
+	process -> cognition
+	cognition -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

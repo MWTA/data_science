@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	bend -> curve
+	curve -> line
+	line -> shape
+	shape -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

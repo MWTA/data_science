@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	clean_and_jerk -> weightlift
+	weightlift -> bodybuilding
+	bodybuilding -> exercise
+	exercise -> effort
+	effort -> labor
+	labor -> work
+	work -> activity
+	activity -> act
+	act -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

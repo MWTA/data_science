@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	wrong -> injustice
+	injustice -> unrighteousness
+	unrighteousness -> immorality
+	immorality -> quality
+	quality -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

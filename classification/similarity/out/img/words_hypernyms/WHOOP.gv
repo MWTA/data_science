@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	whoop -> cry
+	cry -> utterance
+	utterance -> auditory_communication
+	auditory_communication -> communication
+	communication -> abstraction
+	abstraction -> entity
+}

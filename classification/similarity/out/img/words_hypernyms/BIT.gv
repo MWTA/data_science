@@ -1,0 +1,9 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	spot -> small_indefinite_quantity
+	small_indefinite_quantity -> indefinite_quantity
+	indefinite_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+}

@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	start -> beginning
+	beginning -> happening
+	happening -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

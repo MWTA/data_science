@@ -1,0 +1,21 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	milk -> beverage
+	beverage -> food
+	food -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	beverage -> liquid
+	liquid -> fluid
+	fluid -> substance
+	substance -> matter
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+	milk -> dairy_product
+	dairy_product -> foodstuff
+	foodstuff -> food
+}

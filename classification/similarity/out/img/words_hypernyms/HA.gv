@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	hour_angle -> angular_distance
+	angular_distance -> angle
+	angle -> space
+	space -> amorphous_shape
+	amorphous_shape -> shape
+	shape -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+	space -> location
+	location -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

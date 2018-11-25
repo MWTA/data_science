@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"clothing.n.01" -> "consumer_goods.n.01"
+	"consumer_goods.n.01" -> "commodity.n.01"
+	"commodity.n.01" -> "artifact.n.01"
+	"artifact.n.01" -> "whole.n.02"
+	"whole.n.02" -> "object.n.01"
+	"object.n.01" -> "physical_entity.n.01"
+	"physical_entity.n.01" -> "entity.n.01"
+	"clothing.n.01" -> "covering.n.02"
+	"covering.n.02" -> "artifact.n.01"
+}

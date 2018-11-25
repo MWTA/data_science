@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"game.n.03" -> "diversion.n.01"
+	"diversion.n.01" -> "activity.n.01"
+	"activity.n.01" -> "act.n.02"
+	"act.n.02" -> "event.n.01"
+	"event.n.01" -> "psychological_feature.n.01"
+	"psychological_feature.n.01" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+}

@@ -1,0 +1,15 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	fly -> dipterous_insect
+	dipterous_insect -> insect
+	insect -> arthropod
+	arthropod -> invertebrate
+	invertebrate -> animal
+	animal -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

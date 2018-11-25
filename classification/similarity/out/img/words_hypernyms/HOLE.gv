@@ -1,0 +1,15 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	hole -> opening
+	opening -> space
+	space -> amorphous_shape
+	amorphous_shape -> shape
+	shape -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+	space -> location
+	location -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

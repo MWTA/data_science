@@ -1,0 +1,6 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"measure.n.02" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+}

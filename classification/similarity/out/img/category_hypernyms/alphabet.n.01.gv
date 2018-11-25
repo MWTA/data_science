@@ -1,0 +1,17 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"alphabet.n.01" -> "character_set.n.01"
+	"character_set.n.01" -> "list.n.01"
+	"list.n.01" -> "database.n.01"
+	"database.n.01" -> "information.n.01"
+	"information.n.01" -> "message.n.02"
+	"message.n.02" -> "communication.n.02"
+	"communication.n.02" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+	"alphabet.n.01" -> "script.n.03"
+	"script.n.03" -> "orthography.n.01"
+	"orthography.n.01" -> "writing.n.04"
+	"writing.n.04" -> "written_communication.n.01"
+	"written_communication.n.01" -> "communication.n.02"
+}

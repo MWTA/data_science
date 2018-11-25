@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	favorite -> choice
+	choice -> decision_making
+	decision_making -> higher_cognitive_process
+	higher_cognitive_process -> process
+	process -> cognition
+	cognition -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

@@ -1,0 +1,18 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	helium -> chemical_element
+	chemical_element -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+	helium -> noble_gas
+	noble_gas -> chemical_element
+	noble_gas -> gas
+	gas -> fluid
+	fluid -> matter
+}

@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	voice -> sound
+	sound -> sound_property
+	sound_property -> property
+	property -> attribute
+	attribute -> abstraction
+	abstraction -> entity
+}

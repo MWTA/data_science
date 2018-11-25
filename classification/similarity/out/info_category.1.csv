@@ -1,0 +1,250 @@
+==================================
+action.n.01
+alternative names (lemmas): "action"
+definition: "something done (usually as opposed to something said)"
+example usage: "there were stories of murders and other unnatural actions"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('action.n.01')]]"
+hyponyms: "[Synset('accomplishment.n.01'), Synset('aggression.n.03'), Synset('alienation.n.04'), Synset('application.n.07'), Synset('arrival.n.02'), Synset('beatification.n.02'), Synset('bruxism.n.01'), Synset('change.n.03'), Synset('choice.n.02'), Synset('course.n.04'), Synset('destabilization.n.02'), Synset('economy.n.04'), Synset('emphasizing.n.01'), Synset('employment.n.03'), Synset('fetch.n.01'), Synset('interaction.n.01'), Synset('jumpstart.n.01'), Synset('kindness.n.03'), Synset('performance.n.03'), Synset('pickings.n.01'), Synset('play.n.17'), Synset('playing.n.02'), Synset('politeness.n.02'), Synset('prohibition.n.05'), Synset('reference.n.07'), Synset('res_gestae.n.02'), Synset('resistance.n.01'), Synset('reverence.n.03'), Synset('stupefaction.n.03'), Synset('thing.n.02'), Synset('transfusion.n.02'), Synset('transgression.n.03'), Synset('vampirism.n.02')]"
+
+
+==================================
+alphabet.n.01
+alternative names (lemmas): "alphabet"
+definition: "a character set that includes letters and is used to write a language"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('message.n.02'), Synset('information.n.01'), Synset('database.n.01'), Synset('list.n.01'), Synset('character_set.n.01'), Synset('alphabet.n.01')], [Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('communication.n.02'), Synset('written_communication.n.01'), Synset('writing.n.04'), Synset('orthography.n.01'), Synset('script.n.03'), Synset('alphabet.n.01')]]"
+hyponyms: "[Synset('arabic_alphabet.n.01'), Synset('armenian.n.03'), Synset('cyrillic_alphabet.n.01'), Synset('greek_alphabet.n.01'), Synset('hebrew_alphabet.n.01'), Synset('manual_alphabet.n.01'), Synset('phonetic_alphabet.n.01'), Synset('roman_alphabet.n.01')]"
+
+
+==================================
+animal.n.01
+alternative names (lemmas): "animal", "animate_being", "beast", "brute", "creature", "fauna"
+definition: "a living organism characterized by voluntary movement"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('animal.n.01')]]"
+hyponyms: "[Synset('acrodont.n.01'), Synset('adult.n.02'), Synset('biped.n.01'), Synset('captive.n.02'), Synset('chordate.n.01'), Synset('creepy-crawly.n.01'), Synset('critter.n.01'), Synset('darter.n.02'), Synset('domestic_animal.n.01'), Synset('embryo.n.02'), Synset('feeder.n.06'), Synset('female.n.01'), Synset('fictional_animal.n.01'), Synset('game.n.04'), Synset('giant.n.01'), Synset('herbivore.n.01'), Synset('hexapod.n.01'), Synset('homeotherm.n.01'), Synset('insectivore.n.02'), Synset('invertebrate.n.01'), Synset('larva.n.01'), Synset('male.n.01'), Synset('marine_animal.n.01'), Synset('mate.n.03'), Synset('metazoan.n.01'), Synset('migrator.n.02'), Synset('molter.n.01'), Synset('mutant.n.02'), Synset('omnivore.n.02'), Synset('peeper.n.03'), Synset('pest.n.04'), Synset('pet.n.01'), Synset('pleurodont.n.01'), Synset('poikilotherm.n.01'), Synset('predator.n.02'), Synset('prey.n.02'), Synset('racer.n.03'), Synset('range_animal.n.01'), Synset('scavenger.n.03'), Synset('stayer.n.01'), Synset('stunt.n.02'), Synset('survivor.n.03'), Synset('thoroughbred.n.03'), Synset('varmint.n.02'), Synset('work_animal.n.01'), Synset('young.n.01'), Synset('zooplankton.n.01')]"
+
+
+==================================
+body_part.n.01
+alternative names (lemmas): "body_part"
+definition: "any part of an organism such as an organ or extremity"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('thing.n.12'), Synset('part.n.03'), Synset('body_part.n.01')]]"
+hyponyms: "[Synset('abdomen.n.01'), Synset('adnexa.n.01'), Synset('ambulacrum.n.01'), Synset('ampulla.n.01'), Synset('apparatus.n.02'), Synset('area.n.03'), Synset('back.n.01'), Synset('buttock.n.01'), Synset('buttocks.n.01'), Synset('cannon.n.05'), Synset('dilator.n.01'), Synset('dock.n.06'), Synset('dorsum.n.02'), Synset('energid.n.01'), Synset('external_body_part.n.01'), Synset('feature.n.02'), Synset('flank.n.04'), Synset('fornix.n.01'), Synset('gaskin.n.01'), Synset('groove.n.03'), Synset('haunch.n.01'), Synset('hindquarters.n.02'), Synset('hip.n.01'), Synset('horseback.n.01'), Synset('joint.n.01'), Synset('lobe.n.01'), Synset('loin.n.02'), Synset('loins.n.02'), Synset('mentum.n.03'), Synset('organ.n.01'), Synset('partition.n.03'), Synset('process.n.05'), Synset('rectum.n.01'), Synset('rudiment.n.02'), Synset('saddle.n.06'), Synset('shank.n.02'), Synset('shin.n.01'), Synset('shoulder.n.01'), Synset('small.n.01'), Synset('structure.n.04'), Synset('stump.n.02'), Synset('system.n.06'), Synset('thorax.n.01'), Synset('thorax.n.02'), Synset('thorax.n.03'), Synset('tissue.n.01'), Synset('toe.n.03'), Synset('torso.n.01'), Synset('underpart.n.01'), Synset('venter.n.04'), Synset('withers.n.01')]"
+
+
+==================================
+clothing.n.01
+alternative names (lemmas): "clothing", "article_of_clothing", "vesture", "wear", "wearable", "habiliment"
+definition: "a covering designed to be worn on a person's body"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('commodity.n.01'), Synset('consumer_goods.n.01'), Synset('clothing.n.01')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('covering.n.02'), Synset('clothing.n.01')]]"
+hyponyms: "[Synset('accessory.n.01'), Synset('apparel.n.01'), Synset('array.n.03'), Synset('attire.n.01'), Synset('beachwear.n.01'), Synset('black.n.07'), Synset('blue.n.02'), Synset('change.n.07'), Synset('civilian_clothing.n.01'), Synset('drag.n.04'), Synset('footwear.n.01'), Synset('garment.n.01'), Synset('grey.n.06'), Synset('handwear.n.01'), Synset('headdress.n.01'), Synset('knitwear.n.01'), Synset('leisure_wear.n.01'), Synset('loungewear.n.01'), Synset('man's_clothing.n.01'), Synset('neckpiece.n.01'), Synset('nightwear.n.01'), Synset('outerwear.n.01'), Synset('protective_garment.n.01'), Synset('ready-to-wear.n.01'), Synset('slip-on.n.01'), Synset('slops.n.02'), Synset('street_clothes.n.01'), Synset('tailor-made.n.01'), Synset('togs.n.01'), Synset('uniform.n.01'), Synset('vestiture.n.01'), Synset('woman's_clothing.n.01'), Synset('work-clothing.n.01')]"
+
+
+==================================
+color.n.01
+alternative names (lemmas): "color", "colour", "coloring", "colouring"
+definition: "a visual attribute of things that results from the light they emit or transmit or reflect"
+example usage: "a white color is made up of many different wavelengths of light"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('property.n.02'), Synset('visual_property.n.01'), Synset('color.n.01')]]"
+hyponyms: "[Synset('achromatic_color.n.01'), Synset('chromatic_color.n.01'), Synset('coloration.n.02'), Synset('complexion.n.01'), Synset('heather_mixture.n.01'), Synset('mottle.n.01'), Synset('nonsolid_color.n.01'), Synset('primary_color.n.01'), Synset('shade.n.02')]"
+
+
+==================================
+form.n.01
+alternative names (lemmas): "form", "word_form", "signifier", "descriptor"
+definition: "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+example usage: "the inflected forms of a word can be represented by a stem and a list of inflections to be attached"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('relation.n.01'), Synset('part.n.01'), Synset('language_unit.n.01'), Synset('word.n.01'), Synset('form.n.01')]]"
+hyponyms: "[Synset('abbreviation.n.01'), Synset('acronym.n.01'), Synset('citation_form.n.01'), Synset('etymon.n.01'), Synset('ghost_word.n.01'), Synset('plural.n.01'), Synset('root.n.03'), Synset('singular.n.01')]"
+
+
+==================================
+event.n.01
+alternative names (lemmas): "event"
+definition: "something that happens at a given place and time"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01')]]"
+hyponyms: "[Synset('act.n.02'), Synset('group_action.n.01'), Synset('happening.n.01'), Synset('makeup.n.02'), Synset('might-have-been.n.01'), Synset('migration.n.03'), Synset('miracle.n.02'), Synset('nonevent.n.01'), Synset('social_event.n.01'), Synset('zap.n.01')]"
+
+
+==================================
+expression.n.01
+alternative names (lemmas): "expression", "look", "aspect", "facial_expression", "face"
+definition: "the feelings expressed on a person's face"
+example usage: "a sad expression", "a look of triumph", "an angry face"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('quality.n.01'), Synset('appearance.n.01'), Synset('countenance.n.01'), Synset('expression.n.01')]]"
+hyponyms: "[Synset('leer.n.02'), Synset('sparkle.n.01')]"
+
+
+==================================
+feeling.n.01
+alternative names (lemmas): "feeling"
+definition: "the experiencing of affective and emotional states"
+example usage: "she had a feeling of euphoria", "he had terrible feelings of guilt", "I disliked him and the feeling was mutual"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('feeling.n.01')]]"
+hyponyms: "[Synset('affect.n.01'), Synset('affection.n.01'), Synset('agitation.n.03'), Synset('ambivalence.n.01'), Synset('apathy.n.01'), Synset('astonishment.n.01'), Synset('calmness.n.03'), Synset('complex.n.03'), Synset('desire.n.01'), Synset('despair.n.02'), Synset('devastation.n.02'), Synset('dislike.n.02'), Synset('emotion.n.01'), Synset('enthusiasm.n.01'), Synset('expectation.n.03'), Synset('faintness.n.01'), Synset('fearlessness.n.01'), Synset('glow.n.04'), Synset('gratitude.n.01'), Synset('gravity.n.03'), Synset('happiness.n.02'), Synset('hope.n.02'), Synset('humility.n.02'), Synset('ingratitude.n.01'), Synset('levity.n.01'), Synset('liking.n.01'), Synset('pain.n.02'), Synset('pang.n.01'), Synset('passion.n.01'), Synset('pleasure.n.01'), Synset('pride.n.01'), Synset('sadness.n.01'), Synset('sensitivity.n.03'), Synset('sentiment.n.01'), Synset('sex.n.03'), Synset('shame.n.01'), Synset('soul.n.03'), Synset('sympathy.n.02'), Synset('temper.n.02'), Synset('thing.n.11'), Synset('unconcern.n.02')]"
+
+
+==================================
+food.n.01
+alternative names (lemmas): "food", "nutrient"
+definition: "any substance that can be metabolized by an animal to give energy and build tissue"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('matter.n.03'), Synset('substance.n.07'), Synset('food.n.01')]]"
+hyponyms: "[Synset('beverage.n.01'), Synset('chyme.n.01'), Synset('comestible.n.01'), Synset('comfort_food.n.01'), Synset('commissariat.n.01'), Synset('culture_medium.n.01'), Synset('fare.n.04'), Synset('feed.n.01'), Synset('foodstuff.n.02'), Synset('micronutrient.n.01'), Synset('miraculous_food.n.01'), Synset('nutriment.n.01'), Synset('soul_food.n.01'), Synset('water.n.06'), Synset('yolk.n.02')]"
+
+
+==================================
+furniture.n.01
+alternative names (lemmas): "furniture", "piece_of_furniture", "article_of_furniture"
+definition: "furnishings that make a room or other area ready for occupancy"
+example usage: "they had too much furniture for the small apartment", "there was only one piece of furniture in the room"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('furnishing.n.02'), Synset('furniture.n.01')]]"
+hyponyms: "[Synset('baby_bed.n.01'), Synset('bedroom_furniture.n.01'), Synset('bedstead.n.01'), Synset('bookcase.n.01'), Synset('buffet.n.01'), Synset('cabinet.n.01'), Synset('chest_of_drawers.n.01'), Synset('dining-room_furniture.n.01'), Synset('etagere.n.01'), Synset('fitment.n.01'), Synset('hallstand.n.01'), Synset('lamp.n.02'), Synset('lawn_furniture.n.01'), Synset('nest.n.05'), Synset('office_furniture.n.01'), Synset('seat.n.03'), Synset('sectional.n.01'), Synset('sheraton.n.01'), Synset('sleeper.n.07'), Synset('table.n.02'), Synset('table.n.03'), Synset('wall_unit.n.01'), Synset('wardrobe.n.01'), Synset('washstand.n.01')]"
+
+
+==================================
+game.n.03
+alternative names (lemmas): "game"
+definition: "an amusement or pastime"
+example usage: "they played word games", "he thought of his painting as a game that filled his empty time", "his life was all fun and games"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('act.n.02'), Synset('activity.n.01'), Synset('diversion.n.01'), Synset('game.n.03')]]"
+hyponyms: "[Synset('catch.n.08'), Synset('computer_game.n.01'), Synset('ducks_and_drakes.n.01'), Synset('guessing_game.n.01'), Synset('mind_game.n.01'), Synset('paper_chase.n.01'), Synset('party_game.n.01'), Synset('pinball.n.01'), Synset('prisoner's_base.n.01'), Synset('ring-around-the-rosy.n.01'), Synset('treasure_hunt.n.01')]"
+
+
+==================================
+plaything.n.01
+alternative names (lemmas): "plaything", "toy"
+definition: "an artifact designed to be played with"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('plaything.n.01')]]"
+hyponyms: "[Synset('ball.n.06'), Synset('balloon.n.02'), Synset('cockhorse.n.01'), Synset('doll.n.01'), Synset('dollhouse.n.02'), Synset('frisbee.n.01'), Synset('hobby.n.02'), Synset('hula-hoop.n.01'), Synset('jack-in-the-box.n.01'), Synset('jumping_jack.n.01'), Synset('jungle_gym.n.01'), Synset('kaleidoscope.n.02'), Synset('kite.n.03'), Synset('lego.n.01'), Synset('meccano.n.01'), Synset('pea_shooter.n.01'), Synset('pinata.n.01'), Synset('pinwheel.n.03'), Synset('playhouse.n.01'), Synset('pogo_stick.n.01'), Synset('popgun.n.01'), Synset('rattle.n.02'), Synset('sandbox.n.02'), Synset('seesaw.n.01'), Synset('slide.n.04'), Synset('slingshot.n.01'), Synset('stick_horse.n.01'), Synset('swing.n.02'), Synset('teddy.n.01'), Synset('top.n.08'), Synset('train_set.n.01'), Synset('water_pistol.n.01'), Synset('yo-yo.n.01')]"
+
+
+==================================
+physical_condition.n.01
+alternative names (lemmas): "physical_condition", "physiological_state", "physiological_condition"
+definition: "the condition or state of the body or bodily functions"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('physical_condition.n.01')]]"
+hyponyms: "[Synset('abnormality.n.01'), Synset('acathexia.n.01'), Synset('addiction.n.01'), Synset('agalactia.n.01'), Synset('amyxia.n.01'), Synset('analgesia.n.01'), Synset('anesthesia.n.01'), Synset('anestrus.n.01'), Synset('angiotelectasia.n.01'), Synset('anhidrosis.n.01'), Synset('arousal.n.02'), Synset('asphyxia.n.01'), Synset('bloodiness.n.01'), Synset('cellularity.n.01'), Synset('cold_sweat.n.01'), Synset('cryptobiosis.n.01'), Synset('dilatation.n.01'), Synset('disorder.n.01'), Synset('drive.n.09'), Synset('elastosis.n.01'), Synset('emmetropia.n.01'), Synset('estrus.n.01'), Synset('false_pregnancy.n.01'), Synset('fertility.n.02'), Synset('flatulence.n.01'), Synset('flexure.n.01'), Synset('good_health.n.01'), Synset('hypercapnia.n.01'), Synset('hyperpigmentation.n.01'), Synset('hyperthermia.n.01'), Synset('hypocapnia.n.01'), Synset('hypopigmentation.n.01'), Synset('hypothermia.n.01'), Synset('incompatibility.n.02'), Synset('muscularity.n.01'), Synset('myasthenia.n.02'), Synset('normothermia.n.01'), Synset('obstruction.n.02'), Synset('oligospermia.n.01'), Synset('oxygen_debt.n.01'), Synset('pathological_state.n.01'), Synset('poisoning.n.01'), Synset('potency.n.04'), Synset('pregnancy.n.01'), Synset('rigor_mortis.n.01'), Synset('sedation.n.01'), Synset('sleep.n.01'), Synset('sleep.n.02'), Synset('sterility.n.02'), Synset('suspended_animation.n.01'), Synset('torpor.n.01'), Synset('vitalization.n.01'), Synset('wakefulness.n.01')]"
+
+
+==================================
+psychological_state.n.01
+alternative names (lemmas): "psychological_state", "psychological_condition", "mental_state", "mental_condition"
+definition: "(psychology) a mental condition in which the qualities of a state are relatively constant even though the state itself may be dynamic"
+example usage: "a manic state"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('attribute.n.02'), Synset('state.n.02'), Synset('condition.n.01'), Synset('psychological_state.n.01')]]"
+hyponyms: "[Synset('abulia.n.01'), Synset('agitation.n.01'), Synset('anhedonia.n.01'), Synset('anxiety.n.01'), Synset('cognitive_state.n.01'), Synset('delusion.n.01'), Synset('depersonalization.n.02'), Synset('depression.n.01'), Synset('dissociation.n.02'), Synset('elation.n.01'), Synset('enchantment.n.02'), Synset('fugue.n.02'), Synset('hallucinosis.n.01'), Synset('hypnosis.n.01'), Synset('identity_crisis.n.01'), Synset('irritation.n.01'), Synset('mental_health.n.01'), Synset('mental_illness.n.01'), Synset('morale.n.01'), Synset('nervousness.n.02'), Synset('state_of_mind.n.01'), Synset('trauma.n.02')]"
+
+
+==================================
+material.n.04
+alternative names (lemmas): "material"
+definition: "things needed for doing or making something"
+example usage: "writing materials", "useful teaching materials"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('artifact.n.01'), Synset('instrumentality.n.03'), Synset('equipment.n.01'), Synset('material.n.04')]]"
+hyponyms: "[Synset('packaging.n.03'), Synset('railing.n.02'), Synset('roofing.n.01')]"
+
+
+==================================
+nature.n.03
+alternative names (lemmas): "nature"
+definition: "the natural physical world including plants and animals and landscapes etc."
+example usage: "they tried to preserve nature as they found it"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('natural_object.n.01'), Synset('universe.n.01'), Synset('nature.n.03')]]"
+hyponyms: "[]"
+
+
+==================================
+number.n.02
+alternative names (lemmas): "number"
+definition: "a concept of quantity involving zero and units"
+example usage: "every number has a unique position in the sequence"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02'), Synset('definite_quantity.n.01'), Synset('number.n.02')]]"
+hyponyms: "[Synset('addend.n.01'), Synset('arity.n.01'), Synset('atomic_number.n.01'), Synset('augend.n.01'), Synset('baryon_number.n.01'), Synset('base.n.13'), Synset('biquadrate.n.01'), Synset('cardinal_number.n.01'), Synset('cardinality.n.01'), Synset('complex_number.n.01'), Synset('composite_number.n.01'), Synset('compound_number.n.01'), Synset('constant.n.02'), Synset('coordinate.n.01'), Synset('count.n.01'), Synset('cube.n.03'), Synset('decimal.n.02'), Synset('dividend.n.02'), Synset('divisor.n.02'), Synset('factor.n.05'), Synset('fibonacci_number.n.01'), Synset('fixed-point_number.n.01'), Synset('floating-point_number.n.01'), Synset('integer.n.01'), Synset('linage.n.01'), Synset('minuend.n.01'), Synset('multiplicand.n.01'), Synset('multiplier.n.01'), Synset('natural_number.n.01'), Synset('ordinal_number.n.01'), Synset('oxidation_number.n.01'), Synset('pagination.n.01'), Synset('prime.n.01'), Synset('quota.n.01'), Synset('quotient.n.02'), Synset('record.n.03'), Synset('remainder.n.02'), Synset('remainder.n.03'), Synset('root.n.04'), Synset('score.n.03'), Synset('square.n.02'), Synset('subtrahend.n.01')]"
+
+
+==================================
+object.n.01
+alternative names (lemmas): "object", "physical_object"
+definition: "a tangible and visible entity; an entity that can cast a shadow"
+example usage: "it was full of rackets, balls and other objects"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01')]]"
+hyponyms: "[Synset('catch.n.04'), Synset('charm.n.03'), Synset('commemorative.n.01'), Synset('curio.n.01'), Synset('discard.n.01'), Synset('draw.n.04'), Synset('film.n.04'), Synset('finding.n.03'), Synset('floater.n.07'), Synset('fomite.n.01'), Synset('geological_formation.n.01'), Synset('growth.n.07'), Synset('hail.n.02'), Synset('head.n.17'), Synset('hoodoo.n.04'), Synset('ice.n.02'), Synset('je_ne_sais_quoi.n.01'), Synset('keepsake.n.01'), Synset('land.n.02'), Synset('land.n.04'), Synset('location.n.01'), Synset('makeweight.n.01'), Synset('moon.n.02'), Synset('neighbor.n.02'), Synset('paring.n.02'), Synset('part.n.02'), Synset('property.n.05'), Synset('remains.n.01'), Synset('ribbon.n.01'), Synset('shiner.n.02'), Synset('snake.n.05'), Synset('stuff.n.02'), Synset('triviality.n.03'), Synset('vagabond.n.01'), Synset('wall.n.02'), Synset('web.n.01'), Synset('whole.n.02')]"
+
+
+==================================
+person.n.01
+alternative names (lemmas): "person", "individual", "someone", "somebody", "mortal", "soul"
+definition: "a human being"
+example usage: "there was too much for one person to do"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('causal_agent.n.01'), Synset('person.n.01')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('person.n.01')]]"
+hyponyms: "[Synset('abator.n.01'), Synset('abjurer.n.01'), Synset('abomination.n.01'), Synset('abstainer.n.02'), Synset('achiever.n.01'), Synset('acquaintance.n.03'), Synset('acquirer.n.01'), Synset('active.n.03'), Synset('actor.n.02'), Synset('adjudicator.n.01'), Synset('admirer.n.02'), Synset('adoptee.n.01'), Synset('adult.n.01'), Synset('adventurer.n.01'), Synset('adversary.n.01'), Synset('advisee.n.01'), Synset('advocate.n.01'), Synset('affiant.n.01'), Synset('african.n.01'), Synset('agnostic.n.01'), Synset('amateur.n.01'), Synset('amerindian.n.01'), Synset('ancient.n.02'), Synset('anomaly.n.02'), Synset('anti-american.n.01'), Synset('anti.n.01'), Synset('applicant.n.01'), Synset('appointee.n.02'), Synset('appreciator.n.01'), Synset('apprehender.n.02'), Synset('aquarius.n.01'), Synset('archaist.n.01'), Synset('aries.n.01'), Synset('arrogator.n.01'), Synset('assessee.n.01'), Synset('asthmatic.n.01'), Synset('authority.n.02'), Synset('autodidact.n.01'), Synset('baby_boomer.n.01'), Synset('baby_buster.n.01'), Synset('bad_guy.n.01'), Synset('bad_person.n.01'), Synset('baldhead.n.01'), Synset('balker.n.01'), Synset('bather.n.02'), Synset('beard.n.03'), Synset('bedfellow.n.02'), Synset('bereaved.n.01'), Synset('best.n.02'), Synset('birth.n.05'), Synset('biter.n.01'), Synset('black.n.05'), Synset('blogger.n.01'), Synset('blond.n.01'), Synset('bluecoat.n.01'), Synset('bodybuilder.n.01'), Synset('bomber.n.02'), Synset('brunet.n.01'), Synset('bullfighter.n.01'), Synset('buster.n.04'), Synset('cancer.n.02'), Synset('candidate.n.02'), Synset('capitalist.n.02'), Synset('capricorn.n.01'), Synset('captor.n.01'), Synset('case.n.06'), Synset('cashier.n.02'), Synset('celebrant.n.01'), Synset('censor.n.01'), Synset('chameleon.n.01'), Synset('changer.n.01'), Synset('charmer.n.02'), Synset('child.n.03'), Synset('chutzpanik.n.01'), Synset('closer.n.01'), Synset('clumsy_person.n.01'), Synset('collector.n.01'), Synset('color-blind_person.n.01'), Synset('combatant.n.01'), Synset('commoner.n.01'), Synset('communicator.n.01'), Synset('complexifier.n.01'), Synset('compulsive.n.01'), Synset('computer_user.n.01'), Synset('contemplative.n.01'), Synset('contestant.n.01'), Synset('convert.n.01'), Synset('copycat.n.01'), Synset('counter.n.05'), Synset('counterterrorist.n.01'), Synset('coward.n.01'), Synset('crawler.n.02'), Synset('creator.n.02'), Synset('creature.n.02'), Synset('creditor.n.01'), Synset('cripple.n.01'), Synset('dancer.n.02'), Synset('dead_person.n.01'), Synset('deaf_person.n.01'), Synset('debaser.n.01'), Synset('debtor.n.01'), Synset('defecator.n.01'), Synset('delayer.n.01'), Synset('deliverer.n.04'), Synset('demander.n.01'), Synset('dieter.n.01'), Synset('differentiator.n.01'), Synset('disentangler.n.01'), Synset('disputant.n.01'), Synset('dissenter.n.01'), Synset('divider.n.02'), Synset('domestic_partner.n.01'), Synset('double.n.03'), Synset('dresser.n.02'), Synset('dribbler.n.02'), Synset('drug_user.n.01'), Synset('dyslectic.n.01'), Synset('ectomorph.n.01'), Synset('effecter.n.01'), Synset('elizabethan.n.01'), Synset('emotional_person.n.01'), Synset('endomorph.n.01'), Synset('engineer.n.01'), Synset('enjoyer.n.01'), Synset('enrollee.n.01'), Synset('entertainer.n.01'), Synset('ethnic.n.01'), Synset('experimenter.n.02'), Synset('expert.n.01'), Synset('explorer.n.01'), Synset('extrovert.n.01'), Synset('face.n.05'), Synset('faddist.n.01'), Synset('faller.n.02'), Synset('fastener.n.01'), Synset('female.n.02'), Synset('fiduciary.n.01'), Synset('first-rater.n.01'), Synset('follower.n.01'), Synset('free_agent.n.02'), Synset('friend.n.01'), Synset('fugitive.n.01'), Synset('gainer.n.01'), Synset('gainer.n.02'), Synset('gambler.n.01'), Synset('gatekeeper.n.01'), Synset('gatherer.n.01'), Synset('gemini.n.01'), Synset('gentile.n.02'), Synset('good_guy.n.01'), Synset('good_person.n.01'), Synset('granter.n.01'), Synset('greeter.n.01'), Synset('grinner.n.01'), Synset('groaner.n.01'), Synset('grunter.n.01'), Synset('guesser.n.01'), Synset('handicapped_person.n.01'), Synset('hater.n.01'), Synset('heterosexual.n.01'), Synset('homosexual.n.01'), Synset('homunculus.n.02'), Synset('hope.n.04'), Synset('hoper.n.01'), Synset('huddler.n.02'), Synset('hugger.n.01'), Synset('immune.n.01'), Synset('individualist.n.01'), Synset('inhabitant.n.01'), Synset('innocent.n.01'), Synset('insured.n.01'), Synset('intellectual.n.01'), Synset('interpreter.n.02'), Synset('introvert.n.01'), Synset('jat.n.01'), Synset('jew.n.01'), Synset('jewel.n.02'), Synset('jumper.n.01'), Synset('junior.n.03'), Synset('juvenile.n.01'), Synset('killer.n.01'), Synset('kink.n.03'), Synset('kneeler.n.01'), Synset('knocker.n.02'), Synset('knower.n.01'), Synset('large_person.n.01'), Synset('latin.n.03'), Synset('laugher.n.01'), Synset('leader.n.01'), Synset('learner.n.01'), Synset('left-hander.n.02'), Synset('leo.n.01'), Synset('libra.n.01'), Synset('life.n.08'), Synset('lightning_rod.n.01'), Synset('linguist.n.02'), Synset('literate.n.01'), Synset('liver.n.03'), Synset('longer.n.01'), Synset('loose_cannon.n.01'), Synset('loved_one.n.01'), Synset('lover.n.01'), Synset('machine.n.02'), Synset('mailer.n.02'), Synset('malcontent.n.01'), Synset('male.n.02'), Synset('man.n.03'), Synset('man_jack.n.01'), Synset('manipulator.n.02'), Synset('married.n.01'), Synset('masturbator.n.01'), Synset('measurer.n.01'), Synset('mesomorph.n.01'), Synset('mestizo.n.01'), Synset('middlebrow.n.01'), Synset('miracle_man.n.01'), Synset('misogamist.n.01'), Synset('mixed-blood.n.01'), Synset('modern.n.01'), Synset('money_handler.n.01'), Synset('monolingual.n.01'), Synset('mother_hen.n.01'), Synset('mouse.n.03'), Synset('mutilator.n.01'), Synset('namer.n.01'), Synset('namesake.n.01'), Synset('national.n.01'), Synset('native.n.01'), Synset('native.n.02'), Synset('neglecter.n.01'), Synset('neighbor.n.01'), Synset('neutral.n.01'), Synset('nondescript.n.01'), Synset('nonmember.n.01'), Synset('nonparticipant.n.01'), Synset('nonpartisan.n.01'), Synset('nonperson.n.01'), Synset('nonreligious_person.n.01'), Synset('nonresident.n.01'), Synset('nonsmoker.n.01'), Synset('nonworker.n.01'), Synset('nude.n.03'), Synset('nurser.n.01'), Synset('occultist.n.01'), Synset('optimist.n.01'), Synset('orphan.n.02'), Synset('ostrich.n.01'), Synset('ouster.n.01'), Synset('outcaste.n.01'), Synset('outdoorsman.n.01'), Synset('owner.n.02'), Synset('pamperer.n.01'), Synset('pansexual.n.01'), Synset('pardoner.n.01'), Synset('partner.n.03'), Synset('party.n.05'), Synset('passer.n.02'), Synset('peer.n.01'), Synset('perceiver.n.01'), Synset('percher.n.01'), Synset('person_of_color.n.01'), Synset('personage.n.01'), Synset('personification.n.01'), Synset('perspirer.n.01'), Synset('philosopher.n.02'), Synset('picker.n.01'), Synset('pisces.n.02'), Synset('pisser.n.01'), Synset('planner.n.01'), Synset('player.n.04'), Synset('posturer.n.01'), Synset('powderer.n.01'), Synset('precursor.n.02'), Synset('preserver.n.03'), Synset('primitive.n.01'), Synset('propositus.n.01'), Synset('public_relations_person.n.01'), Synset('pursuer.n.02'), Synset('pussycat.n.01'), Synset('quarter.n.11'), Synset('quitter.n.01'), Synset('radical.n.03'), Synset('realist.n.02'), Synset('rectifier.n.02'), Synset('redhead.n.01'), Synset('registrant.n.01'), Synset('relative.n.01'), Synset('reliever.n.02'), Synset('religious_person.n.01'), Synset('repeater.n.01'), Synset('rescuer.n.02'), Synset('rester.n.01'), Synset('restrainer.n.02'), Synset('revenant.n.01'), Synset('rich_person.n.01'), Synset('right-hander.n.02'), Synset('riser.n.01'), Synset('romper.n.01'), Synset('roundhead.n.01'), Synset('ruler.n.01'), Synset('rusher.n.03'), Synset('sagittarius.n.01'), Synset('scientist.n.01'), Synset('scorpio.n.01'), Synset('scratcher.n.02'), Synset('second-rater.n.01'), Synset('seeder.n.01'), Synset('seeker.n.01'), Synset('segregate.n.01'), Synset('self.n.02'), Synset('sensualist.n.01'), Synset('sentimentalist.n.01'), Synset('sex_object.n.01'), Synset('sex_symbol.n.01'), Synset('shaker.n.01'), Synset('showman.n.01'), Synset('signer.n.02'), Synset('simpleton.n.01'), Synset('six-footer.n.01'), Synset('skidder.n.01'), Synset('slav.n.01'), Synset('slave.n.01'), Synset('slave.n.03'), Synset('sleepyhead.n.01'), Synset('sloucher.n.01'), Synset('small_person.n.01'), Synset('smasher.n.01'), Synset('smiler.n.01'), Synset('sneezer.n.01'), Synset('sniffer.n.01'), Synset('sniffler.n.01'), Synset('snuffer.n.02'), Synset('snuffler.n.01'), Synset('socializer.n.01'), Synset('sort.n.03'), Synset('sounding_board.n.01'), Synset('sphinx.n.01'), Synset('spitter.n.01'), Synset('sport.n.04'), Synset('sprawler.n.01'), Synset('spurner.n.01'), Synset('squinter.n.01'), Synset('stifler.n.01'), Synset('stigmatic.n.01'), Synset('stooper.n.02'), Synset('stranger.n.02'), Synset('struggler.n.01'), Synset('subject.n.06'), Synset('supernumerary.n.01'), Synset('surrenderer.n.01'), Synset('survivalist.n.01'), Synset('survivor.n.02'), Synset('suspect.n.01'), Synset('tagger.n.01'), Synset('tagger.n.02'), Synset('tapper.n.02'), Synset('taurus.n.02'), Synset('tempter.n.01'), Synset('termer.n.01'), Synset('terror.n.02'), Synset('testator.n.01'), Synset('thin_person.n.01'), Synset('third-rater.n.01'), Synset('thrower.n.02'), Synset('tiger.n.01'), Synset('totemist.n.01'), Synset('toucher.n.01'), Synset('transfer.n.02'), Synset('transsexual.n.02'), Synset('transvestite.n.01'), Synset('traveler.n.01'), Synset('trier.n.02'), Synset('turner.n.07'), Synset('tyrant.n.03'), Synset('undoer.n.02'), Synset('unfortunate.n.01'), Synset('unskilled_person.n.01'), Synset('unwelcome_person.n.01'), Synset('user.n.01'), Synset('vanisher.n.01'), Synset('victim.n.02'), Synset('victorian.n.01'), Synset('virgo.n.01'), Synset('visionary.n.01'), Synset('visually_impaired_person.n.01'), Synset('waiter.n.02'), Synset('waker.n.02'), Synset('walk-in.n.01'), Synset('wanter.n.01'), Synset('ward.n.01'), Synset('warrior.n.01'), Synset('watcher.n.03'), Synset('weakling.n.01'), Synset('weasel.n.01'), Synset('white.n.01'), Synset('wiggler.n.01'), Synset('winker.n.01'), Synset('withholder.n.01'), Synset('witness.n.05'), Synset('worker.n.01'), Synset('worldling.n.01'), Synset('yawner.n.01')]"
+
+
+==================================
+location.n.01
+alternative names (lemmas): "location"
+definition: "a point or extent in space"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01')]]"
+hyponyms: "[Synset('base.n.14'), Synset('bilocation.n.01'), Synset('earth.n.04'), Synset('east.n.05'), Synset('here.n.01'), Synset('home.n.03'), Synset('jungle.n.01'), Synset('line.n.11'), Synset('north.n.04'), Synset('northeast.n.04'), Synset('northwest.n.04'), Synset('outer_space.n.01'), Synset('pass.n.04'), Synset('point.n.02'), Synset('region.n.01'), Synset('region.n.03'), Synset('seat.n.06'), Synset('sodom.n.01'), Synset('somewhere.n.01'), Synset('south.n.04'), Synset('southeast.n.04'), Synset('southwest.n.04'), Synset('space.n.02'), Synset('there.n.01'), Synset('west.n.08'), Synset('whereabouts.n.01')]"
+
+
+==================================
+country.n.02
+alternative names (lemmas): "country", "state", "land"
+definition: "the territory occupied by a nation"
+example usage: "he returned to the land of his birth", "he visited several European countries"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('district.n.01'), Synset('administrative_district.n.01'), Synset('country.n.02')]]"
+hyponyms: "[Synset('african_country.n.01'), Synset('asian_country.n.01'), Synset('banana_republic.n.01'), Synset('buffer_state.n.01'), Synset('european_country.n.01'), Synset('fatherland.n.01'), Synset('kingdom.n.02'), Synset('north_american_country.n.01'), Synset('south_american_country.n.01'), Synset('sultanate.n.01'), Synset('tax_haven.n.01')]"
+
+
+==================================
+state.n.01
+alternative names (lemmas): "state", "province"
+definition: "the territory occupied by one of the constituent administrative districts of a nation"
+example usage: "his state is in the deep south"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('district.n.01'), Synset('administrative_district.n.01'), Synset('state.n.01')]]"
+hyponyms: "[Synset('american_state.n.01'), Synset('australian_state.n.01'), Synset('canadian_province.n.01'), Synset('commonwealth.n.01'), Synset('eparchy.n.01'), Synset('italian_region.n.01'), Synset('soviet_socialist_republic.n.01')]"
+
+
+==================================
+city.n.01
+alternative names (lemmas): "city", "metropolis", "urban_center"
+definition: "a large and densely populated urban area; may include several independent administrative districts"
+example usage: "Ancient Troy was a great city"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('district.n.01'), Synset('administrative_district.n.01'), Synset('municipality.n.01'), Synset('city.n.01')], [Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('location.n.01'), Synset('region.n.03'), Synset('geographical_area.n.01'), Synset('urban_area.n.01'), Synset('municipality.n.01'), Synset('city.n.01')]]"
+hyponyms: "[Synset('national_capital.n.01'), Synset('provincial_capital.n.01'), Synset('state_capital.n.01')]"
+
+
+==================================
+measure.n.02
+alternative names (lemmas): "measure", "quantity", "amount"
+definition: "how much there is or how many there are of something that you can quantify"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('measure.n.02')]]"
+hyponyms: "[Synset('cordage.n.01'), Synset('definite_quantity.n.01'), Synset('fundamental_quantity.n.01'), Synset('indefinite_quantity.n.01'), Synset('magnetization.n.01'), Synset('octane_number.n.01'), Synset('playing_period.n.01'), Synset('point.n.06'), Synset('probability.n.01'), Synset('proof.n.03'), Synset('quantum.n.02'), Synset('radical.n.04'), Synset('relative_quantity.n.01'), Synset('system_of_measurement.n.01'), Synset('time_interval.n.01'), Synset('time_unit.n.01'), Synset('value.n.03'), Synset('volume.n.01'), Synset('volume.n.05')]"
+
+
+==================================
+time.n.01
+alternative names (lemmas): "time", "clip"
+definition: "an instance or single occasion for some event"
+example usage: "this time he succeeded", "he called four times", "he could do ten at a clip"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('psychological_feature.n.01'), Synset('event.n.01'), Synset('happening.n.01'), Synset('case.n.01'), Synset('time.n.01')]]"
+hyponyms: "[]"
+
+
+==================================
+sequence.n.01
+alternative names (lemmas): "sequence"
+definition: "serial arrangement in which things follow in logical order or a recurrent pattern"
+example usage: "the sequence of names was alphabetical", "he invented a technique to determine the sequence of base pairs in DNA"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('abstraction.n.06'), Synset('group.n.01'), Synset('arrangement.n.02'), Synset('ordering.n.01'), Synset('series.n.01'), Synset('sequence.n.01')]]"
+hyponyms: "[Synset('codon.n.01'), Synset('combination.n.02'), Synset('combination.n.03'), Synset('fibonacci_sequence.n.01'), Synset('gene.n.01'), Synset('string.n.05')]"
+
+
+==================================
+transport.n.02
+alternative names (lemmas): "transport"
+definition: "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes"
+hypernym_paths: "[[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('process.n.06'), Synset('natural_process.n.01'), Synset('diffusion.n.01'), Synset('transport.n.02')]]"
+hyponyms: "[Synset('active_transport.n.01'), Synset('passive_transport.n.01')]"
+
+

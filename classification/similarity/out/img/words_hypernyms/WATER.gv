@@ -1,0 +1,19 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	water -> binary_compound
+	binary_compound -> compound
+	compound -> chemical
+	chemical -> material
+	material -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+	water -> liquid
+	liquid -> fluid
+	fluid -> matter
+}

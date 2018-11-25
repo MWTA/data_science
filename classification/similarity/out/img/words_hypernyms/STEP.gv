@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	measure -> maneuver
+	maneuver -> move
+	move -> decision
+	decision -> choice
+	choice -> action
+	action -> act
+	act -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+}

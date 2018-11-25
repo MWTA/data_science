@@ -1,0 +1,15 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	glue -> cement
+	cement -> adhesive_material
+	adhesive_material -> material
+	material -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

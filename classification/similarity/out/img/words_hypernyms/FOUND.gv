@@ -1,0 +1,14 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	found -> wage
+	wage -> regular_payment
+	regular_payment -> payment
+	payment -> cost
+	cost -> outgo
+	outgo -> transferred_property
+	transferred_property -> possession
+	possession -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

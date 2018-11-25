@@ -1,0 +1,17 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	car -> motor_vehicle
+	motor_vehicle -> "self-propelled_vehicle"
+	"self-propelled_vehicle" -> wheeled_vehicle
+	wheeled_vehicle -> container
+	container -> instrumentality
+	instrumentality -> artifact
+	artifact -> whole
+	whole -> object
+	object -> physical_entity
+	physical_entity -> entity
+	wheeled_vehicle -> vehicle
+	vehicle -> conveyance
+	conveyance -> instrumentality
+}

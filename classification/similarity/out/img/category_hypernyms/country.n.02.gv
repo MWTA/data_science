@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"country.n.02" -> "administrative_district.n.01"
+	"administrative_district.n.01" -> "district.n.01"
+	"district.n.01" -> "region.n.03"
+	"region.n.03" -> "location.n.01"
+	"location.n.01" -> "object.n.01"
+	"object.n.01" -> "physical_entity.n.01"
+	"physical_entity.n.01" -> "entity.n.01"
+}

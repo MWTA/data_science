@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"nature.n.03" -> "universe.n.01"
+	"universe.n.01" -> "natural_object.n.01"
+	"natural_object.n.01" -> "whole.n.02"
+	"whole.n.02" -> "object.n.01"
+	"object.n.01" -> "physical_entity.n.01"
+	"physical_entity.n.01" -> "entity.n.01"
+}

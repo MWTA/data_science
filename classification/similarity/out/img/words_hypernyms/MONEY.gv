@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	money -> medium_of_exchange
+	medium_of_exchange -> standard
+	standard -> system_of_measurement
+	system_of_measurement -> measure
+	measure -> abstraction
+	abstraction -> entity
+}

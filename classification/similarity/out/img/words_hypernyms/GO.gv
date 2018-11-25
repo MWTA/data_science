@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	go -> shift
+	shift -> hours
+	hours -> work_time
+	work_time -> time_period
+	time_period -> fundamental_quantity
+	fundamental_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+}

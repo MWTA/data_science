@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	home -> residence
+	residence -> address
+	address -> geographic_point
+	geographic_point -> point
+	point -> location
+	location -> object
+	object -> physical_entity
+	physical_entity -> entity
+}

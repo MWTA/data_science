@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	candy -> sweet
+	sweet -> dainty
+	dainty -> nutriment
+	nutriment -> food
+	food -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+}

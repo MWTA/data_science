@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	cracker -> bread
+	bread -> baked_goods
+	baked_goods -> food
+	food -> solid
+	solid -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	bread -> starches
+	starches -> foodstuff
+	foodstuff -> food
+	food -> substance
+	substance -> matter
+}

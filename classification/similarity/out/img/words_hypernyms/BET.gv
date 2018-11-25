@@ -1,0 +1,12 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	stake -> gamble
+	gamble -> speculation
+	speculation -> investment
+	investment -> assets
+	assets -> possession
+	possession -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

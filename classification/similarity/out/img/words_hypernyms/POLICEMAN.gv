@@ -1,0 +1,16 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	policeman -> lawman
+	lawman -> defender
+	defender -> preserver
+	preserver -> person
+	person -> causal_agent
+	causal_agent -> physical_entity
+	physical_entity -> entity
+	person -> organism
+	organism -> living_thing
+	living_thing -> whole
+	whole -> object
+	object -> physical_entity
+}

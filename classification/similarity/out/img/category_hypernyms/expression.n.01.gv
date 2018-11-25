@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"expression.n.01" -> "countenance.n.01"
+	"countenance.n.01" -> "appearance.n.01"
+	"appearance.n.01" -> "quality.n.01"
+	"quality.n.01" -> "attribute.n.02"
+	"attribute.n.02" -> "abstraction.n.06"
+	"abstraction.n.06" -> "entity.n.01"
+}

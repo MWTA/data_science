@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	eye -> sense_organ
+	sense_organ -> organ
+	organ -> body_part
+	body_part -> part
+	part -> thing
+	thing -> physical_entity
+	physical_entity -> entity
+}

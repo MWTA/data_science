@@ -1,0 +1,18 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	uracil -> nucleotide
+	nucleotide -> ester
+	ester -> organic_compound
+	organic_compound -> compound
+	compound -> chemical
+	chemical -> material
+	material -> substance
+	substance -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+	substance -> part
+	part -> relation
+	relation -> abstraction
+	abstraction -> entity
+}

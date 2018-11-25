@@ -1,0 +1,10 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	face -> external_body_part
+	external_body_part -> body_part
+	body_part -> part
+	part -> thing
+	thing -> physical_entity
+	physical_entity -> entity
+}

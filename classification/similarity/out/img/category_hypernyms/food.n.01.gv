@@ -1,0 +1,8 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"food.n.01" -> "substance.n.07"
+	"substance.n.07" -> "matter.n.03"
+	"matter.n.03" -> "physical_entity.n.01"
+	"physical_entity.n.01" -> "entity.n.01"
+}

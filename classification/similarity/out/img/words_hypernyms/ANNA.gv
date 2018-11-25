@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	anna -> indian_monetary_unit
+	indian_monetary_unit -> monetary_unit
+	monetary_unit -> unit_of_measurement
+	unit_of_measurement -> definite_quantity
+	definite_quantity -> measure
+	measure -> abstraction
+	abstraction -> entity
+	anna -> pakistani_monetary_unit
+	pakistani_monetary_unit -> monetary_unit
+}

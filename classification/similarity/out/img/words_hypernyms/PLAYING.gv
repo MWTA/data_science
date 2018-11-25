@@ -1,0 +1,23 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	playing -> musical_performance
+	musical_performance -> performance
+	performance -> presentation
+	presentation -> show
+	show -> entertainment
+	entertainment -> diversion
+	diversion -> activity
+	activity -> act
+	act -> event
+	event -> psychological_feature
+	psychological_feature -> abstraction
+	abstraction -> entity
+	musical_performance -> performing_arts
+	performing_arts -> humanistic_discipline
+	humanistic_discipline -> discipline
+	discipline -> knowledge_domain
+	knowledge_domain -> content
+	content -> cognition
+	cognition -> psychological_feature
+}

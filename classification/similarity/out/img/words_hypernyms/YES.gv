@@ -1,0 +1,13 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	yes -> affirmative
+	affirmative -> avowal
+	avowal -> assertion
+	assertion -> declaration
+	declaration -> statement
+	statement -> message
+	message -> communication
+	communication -> abstraction
+	abstraction -> entity
+}

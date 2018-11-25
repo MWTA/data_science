@@ -1,0 +1,11 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	cookie -> cake
+	cake -> baked_goods
+	baked_goods -> food
+	food -> solid
+	solid -> matter
+	matter -> physical_entity
+	physical_entity -> entity
+}
