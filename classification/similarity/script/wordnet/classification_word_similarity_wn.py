@@ -91,7 +91,7 @@ if __name__ == '__main__':
     genesis_ic = wn.ic(genesis, False, 0.0)
 
     # You can read more about the different types of wordnet similarity measures here: http://www.nltk.org/howto/wordnet.html
-    path_root = '/home/rodriguesfas/Mestrado/workspace/data_science/classification/similarity-sentence-word/'
+    path_root = '/home/rodriguesfas/Mestrado/workspace/data_science/classification/similarity/'
 
     list_words = load_data(path_root+'in/words.csv')
     list_categories = load_data(path_root+'in/categories_synset.csv')

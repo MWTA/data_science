@@ -156,11 +156,11 @@ def heatmap_plotly():
 
 if __name__ == '__main__':
 
-    path_root = '/home/rodriguesfas/Mestrado/workspace/data_science/classification/similarity-sentence-word/'
+    path_root = '/home/rodriguesfas/Mestrado/workspace/data_science/classification/similarity/'
     
     plotly.tools.set_credentials_file(username='rodriguesfas', api_key='8pbWwhm2biYm8ApskFCl')
 
-    dot = Digraph('diagram', format='svg', filename=path_root+'out/img/relations_categories/diagram.gv')
+    dot = Digraph('diagram', format='svg', filename=path_root+'out/img/relations/relations_hypernyms_categories.gv')
     dot.attr(size='6,6')
     dot.node_attr.update(color='lightblue2', style='filled')
 
